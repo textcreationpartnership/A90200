@@ -1,0 +1,1828 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A persvvasive to a mutuall compliance under the present government. Together with a plea for a free state compared with monarchy.</title>
+            <author>Osborne, Francis, 1593-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 115 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90200</idno>
+            <idno type="STC">Wing O517</idno>
+            <idno type="STC">Thomason E655_5</idno>
+            <idno type="STC">ESTC R203026</idno>
+            <idno type="EEBO-CITATION">99863129</idno>
+            <idno type="PROQUEST">99863129</idno>
+            <idno type="VID">115311</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115311)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E655[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A persvvasive to a mutuall compliance under the present government. Together with a plea for a free state compared with monarchy.</title>
+                  <author>Osborne, Francis, 1593-1659.</author>
+               </titleStmt>
+               <extent>[6], 41, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Leonard Lichfield],</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>in the yeare. 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Francis Osborne.</note>
+                  <note>Printer's name from Wing.</note>
+                  <note>Annotation on Thomason copy: The "2" in the imprint date is crossed out and "1651" written in; "Febr. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Republics --  Early works to 1800.</term>
+               <term>Monarchy --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115311:1" rendition="simple:additions"/>
+            <p>A
+PERSWASIVE
+TO
+A Mutuall Compliance
+UNDER THE
+PRESENT GOVERNMENT. <hi>Together with</hi>
+A PLEA
+FOR
+A FREE STATE
+<hi>COMPARED WITH</hi>
+MONARCHY.</p>
+            <q>
+               <bibl>ROM: 13. 1.</bibl>
+               <p>The Powers that be, <hi>are Ordained of God.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>PROV: 11. 14.</bibl>
+               <p>
+                  <hi>In the</hi> Multitude of Councellours <hi>there is</hi> Safety.</p>
+            </q>
+            <p>OXFORD,
+Printed in the Yeare. 1652.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:115311:2"/>
+            <pb facs="tcp:115311:2"/>
+            <head>To his Excellency
+The Lord Generall CROMWELL.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is hoped, <hi>Your Excellency</hi> may par<g ref="char:EOLhyphen"/>don
+this boldneſſe, upon the conſide<g ref="char:EOLhyphen"/>ration,
+That this poore <hi>mite</hi> offered
+in zeale, may longer beare <hi>Your ſuper<g ref="char:EOLhyphen"/>ſcription,</hi>
+then choicer pieces caſt into
+the <hi>Treaſury of Your deſert,</hi> by greater
+and more popular pens: However
+his Election cannot be blamed, that
+ſeekes <hi>ſhelter</hi> under that <hi>Tree of Honour,</hi>
+which, during the <hi>ſtormes</hi> of ſo many contrary Factions,
+hath not onely <hi>ſhadowed</hi> all formerly owned by <hi>Antiquity,</hi>
+but <hi>may chill the hands</hi> of Poſterity with deſpair, of ever being
+able to match <hi>Your</hi> Actions hereafter. For thoſe moſt ce<g ref="char:EOLhyphen"/>lebrated
+for their <hi>Valour and Conduct,</hi> did but <hi>gleane repute</hi> a<g ref="char:EOLhyphen"/>mongſt
+the <hi>thornes of contrary and doubtfull Succeſſes;</hi> Whereas
+<hi>You,</hi> being <hi>the true Maſter of the Harveſt of Honour,</hi> never were
+knowne to returne without <hi>bringing Your ſheaves with You;</hi>
+Which may be the leſſe wondred at by thoſe who obſerve
+how <hi>juſt an Accomptant</hi> You are to <hi>Your alone Captain, the Lord
+of Hoſts, in ſumming Your Bils of Victory to his glory,</hi> not <hi>Your own;</hi>
+Who hath now not onely ſuffered <hi>You</hi> to <hi>build,</hi> but to <hi>ſhut the
+Gates</hi> of the Temple of <hi>Warre;</hi> And will no doubt inſpire
+you with a <hi>patterne</hi> for that of <hi>Peace;</hi> ſo that as you have <hi>be<g ref="char:EOLhyphen"/>gun
+with Joſhua,</hi> you may <hi>end with Solomon: Jethro</hi> hath long
+<pb facs="tcp:115311:3"/>
+ſince <hi>layed the platform</hi> how to make <hi>a people happy.</hi> And it were
+preſumption to offer to preſcribe farther unto <hi>Maſter-Buil<g ref="char:EOLhyphen"/>ders;</hi>
+Yet in particular for <hi>Oxford,</hi> of which Providence hath
+made you <hi>Chancellour,</hi> may it be ſpoken without offence, That
+the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> however repreſented, retaines no ſurfeit of
+<hi>Obſtinacy</hi> or <hi>Riches; Your Reformation</hi> being as ſutable to her
+deſires, as <hi>Your Protection:</hi> if Your wiſedome apprehend a <hi>ſu<g ref="char:EOLhyphen"/>perfluity
+in one place,</hi> the next glance may poſſibly diſcover <hi>hun<g ref="char:EOLhyphen"/>dreds
+that want it:</hi> Her misfortune is, to be look'd upon as
+having laboured ſo long of a Malignant Feaver, that ſhe is
+run paſt recovery in the bookes of <hi>prejudice,</hi> having nothing
+to redeeme her from <hi>ruine,</hi> but <hi>Your pity and power;</hi> if You
+would be pleaſed to take Her into <hi>Your</hi> more <hi>peculiar Pro<g ref="char:EOLhyphen"/>tection<g ref="char:punc">▪</g>
+               </hi>
+and not ſuffer Her any longer to lye <hi>committed</hi> unto
+<hi>other Hands then Your Owne,</hi> and ſuch as <hi>under You,</hi> and <hi>nearer
+Her,</hi> ſhall be thought fit to put Her into. Which ſhe hath
+the greater hopes to obtaine, becauſe more then <hi>ten times</hi> the
+number of good men aſſigned by God for the ſtoppe of the
+<hi>ſevereſt ſentence</hi> ever pronounced againſt a <hi>City, Liſted</hi> them<g ref="char:EOLhyphen"/>ſelves
+in one day under the <hi>Noble Governour</hi> that then was,
+without looking backe upon any thing of their <hi>own Intereſt,</hi>
+eſteemed <hi>vile</hi> in compariſon of the <hi>Publique Safety,</hi> and
+<hi>Your Honour.</hi>
+            </p>
+            <p>There needs no more interruption be given to <hi>Your</hi> weigh<g ref="char:EOLhyphen"/>tier
+affaires, then to acquaint You, that the <hi>Author</hi> abſents
+his <hi>Name</hi> out of no other feare, then to keepe himſelfe in a
+condition to doe <hi>You farther ſervice.</hi> For though <hi>Kings</hi> fall
+before You, their <hi>Inſtruments</hi> may riſe up againſt others that
+endeavour to give <hi>evidence</hi> to an <hi>oppoſite Government;</hi> eſpecially
+having no <hi>Legions</hi> to defend him but Your <hi>Name,</hi> and the
+aſſurance he hath to be owned, as truly he is</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 1. 1651/2.</date>
+               </dateline>
+               <salute>(My Lord)</salute>
+
+               <hi>Your Excellencyes</hi> moſt humble and
+obedient Servant.</closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115311:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ot to ſtumble into the like <hi>folly</hi> with thoſe who
+<hi>court their Readers for<g ref="char:punc">▪</g> Applauſe;</hi> ſince the
+<hi>moſt</hi> are wont to <hi>crowd</hi> about <hi>new Bookes,</hi>
+rather to <hi>note</hi> the <hi>blemiſhes,</hi> then <hi>beauties</hi> of
+<hi>Authors;</hi> hooting, like <hi>Boyes,</hi> at all they find
+diſſonant from what, <hi>Cuſtome</hi> or <hi>Education</hi>
+hath tun'd their apprehenſions to; and not conſidering that what ſeems
+<hi>harſh now,</hi> may, when it is perfectly <hi>ſcan'd,</hi> be moſt <hi>harmoni<g ref="char:EOLhyphen"/>ous:</hi>
+I will ſay no more, least I ſhould ſeem to ſpread my endeavours
+to catch <hi>&amp;c.</hi>—This being only directed to ſuch <hi>can<g ref="char:EOLhyphen"/>did
+ſpirits</hi> as being themſelves in queſt of <hi>Truth</hi> and the <hi>pre<g ref="char:EOLhyphen"/>ſent
+Quiet,</hi> cannot but love thoſe that doe, though but weakely, pro<g ref="char:EOLhyphen"/>mote
+it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:115311:4"/>
+            <pb n="1" facs="tcp:115311:4"/>
+            <head>A PERSWASIVE
+to a Mutuall compliance under
+THE PRESENT GOVERNMENT<g ref="char:punc">▪</g>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T was never thought ſafe, much leſſe
+prudent, for a <hi>ſuppreſt party</hi> to be in<g ref="char:EOLhyphen"/>temperate
+in <hi>ſpeeches,</hi> and turbulent
+in their <hi>Actions;</hi> eſpecially having
+<hi>no Power</hi> ſtanding ready in the eye of
+probability, to protect them: Nei<g ref="char:EOLhyphen"/>ther
+are <hi>Examples</hi> eaſily found (all
+provocations conſidered) of grea<g ref="char:EOLhyphen"/>ter
+<hi>Clemency,</hi> then hath been uſed by
+<hi>our preſent Governours;</hi> Into whoſe hands <hi>God</hi> hath delive<g ref="char:EOLhyphen"/>red
+by an indubitable <hi>Conqueſt,</hi> ſome in his <hi>Anger,</hi> as others
+in his <hi>Mercy.</hi>
+            </p>
+            <p>Though <hi>Envie</hi> cannot charge me, to have fallen from <hi>my
+firſt Love, The true Repreſentative of England;</hi> yet I never wan<g ref="char:EOLhyphen"/>ted
+naturall bowels to thoſe whom <hi>Prejudice</hi> and other
+more <hi>ſelfiſh reſpects</hi> had unhappily caſt on the <hi>other ſide:</hi> but
+did daily lay out my <hi>ſupplications;</hi> and the poore <hi>Talent</hi> God
+intruſted me with, to <hi>buy</hi> them to the waies of <hi>Peace.</hi> And
+therefore I am not ſo much to be ſuſpected of <hi>Partiality,</hi> but
+that I may poſſibly perſwade at leaſt the <hi>Vanquiſht</hi> (and ſo
+<pb n="2" facs="tcp:115311:5"/>
+in reaſon the moſt <hi>exaſperated</hi>) to ſuch a temper, as may ren<g ref="char:EOLhyphen"/>der,
+in their behalfe, the <hi>prevailing Power</hi> as admirable for
+<hi>Moderation,</hi> as <hi>Succeſſe</hi> hath proclaimed them famous for
+their <hi>Valour.</hi>
+            </p>
+            <p>That no <hi>Government</hi> extant this day, can poſſibly be de<g ref="char:EOLhyphen"/>moliſhed
+by <hi>fowler hands,</hi> then it was erected; That, by the
+judgement of <hi>Truth</hi> it ſelfe, a <hi>ſtrong man</hi> ought not in rea<g ref="char:EOLhyphen"/>ſon
+to be bound but by <hi>one more mighty;</hi> And That the <hi>ſword</hi>
+in all ages, during the ſtormes of War, hath pretended to a
+<hi>priviledge of cutting</hi> ſuch <hi>knots,</hi> as under a more ſerene Heaven
+might have puzled not only <hi>Reaſon</hi> but <hi>Religion to uniie;</hi>
+Are ſo notorious to all not wilfully or naturally blind in
+<hi>Story,</hi> as he that ſhould endeavour the proofe of it, would
+to the wiſe ſeem an Owle, rather then an Athenian<g ref="char:punc">▪</g> there be<g ref="char:EOLhyphen"/>ing
+news of little elſe in all Hiſtory both ſacred &amp; profane.</p>
+            <p>And though ſuch <hi>changes</hi> are ſtrangers to us hatched un<g ref="char:EOLhyphen"/>der
+a ſtill peace; they were familiar to our <hi>Fathers;</hi> whoſe
+births ſtood ordinary dated from ſome <hi>Forraine Conqueſt</hi> or
+their Deaths from a <hi>civil Diſſention</hi> at home: Yet, by the
+<hi>continuance</hi> of many of their <hi>Names</hi> in the ſame <hi>poſſeſſions,</hi> it
+doth plainly appeare they had more <hi>patience</hi> and wiſdome
+then perpetually to oppoſe <hi>irreconſileable minds</hi> to ſuccesfull
+and <hi>irreſiſtible Powers.</hi> And where this was not obſerved,
+how fatall and impartiall the <hi>ſeverity of Conqueſt</hi> hath pro<g ref="char:EOLhyphen"/>ved,
+is plain in <hi>Comines,</hi> who atteſts to have ſeen a <hi>Branch</hi>
+of one of the moſt illuſtrious <hi>Families</hi> in <hi>England,</hi> begging
+in <hi>Burgundy:</hi> whoſe <hi>Duke</hi> after that infamous defeat given
+him by the <hi>Helvetians,</hi> ran, as was ſuppoſed, the like fortune,
+his body not being found. Neither is there any thing like<g ref="char:EOLhyphen"/>lier
+to caſt our <hi>Nobility</hi> and <hi>Gentry</hi> into this condition, then a
+<hi>chang by another Warre,</hi> which will lie moſt heavy upon <hi>them,</hi>
+beſides the <hi>uncertainty</hi> of the <hi>event:</hi> when as a <hi>quiet</hi> and <hi>time<g ref="char:EOLhyphen"/>ly
+ſubmiſsion</hi> would eſtate <hi>them</hi> or <hi>their Children,</hi> in an un<g ref="char:EOLhyphen"/>doubted
+capacity to <hi>ſhare</hi> in what is, or ſhall be <hi>eſtabliſhed:</hi>
+Inabling them to alter what they may find <hi>amiſſe.</hi> Whereas
+otherwiſe it would be an act of the <hi>highest indiſcretio<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> for peo<g ref="char:EOLhyphen"/>ple
+ſo long <hi>beaten</hi> by the <hi>cruell ſtormes</hi> of a <hi>Civil Warre,</hi> to re<g ref="char:EOLhyphen"/>fuſe
+<pb n="3" facs="tcp:115311:5"/>
+for the preſent <hi>any Harbour,</hi> though never ſo incommo<g ref="char:EOLhyphen"/>dious:
+and to venture againe the <hi>wrack</hi> of ſo ſacred a <hi>Veſſel</hi>
+as the <hi>Common-Wealth,</hi> for no <hi>richer commodities,</hi> then an un<g ref="char:EOLhyphen"/>certain
+hope of <hi>boying up</hi> ſuch <hi>Honours, profits</hi> and <hi>Juriſdicti<g ref="char:EOLhyphen"/>ons,</hi>
+as the <hi>feares, wilfulneſſe</hi> and <hi>evil Counſels</hi> of thoſe <hi>formerly</hi>
+at the <hi>Helme,</hi> cauſed them to caſt away; ſince experience
+hath taught us, we may live happily without them. Nei<g ref="char:EOLhyphen"/>ther
+are thoſe thus deſirous of <hi>alteration,</hi> able to procure it
+by their <hi>own ſtrength;</hi> but muſt borrow of ſuch <hi>ſuſpected friends,</hi>
+or <hi>known enemies,</hi> as are unlikely to ſhew much more favour
+to their <hi>Inviters,</hi> then <hi>thoſe</hi> that ſhall labour to <hi>keep them
+out.</hi>
+            </p>
+            <p>Were it not more diſcretion, to let <hi>her lye</hi> quietly a while in
+the <hi>Dock,</hi> under the <hi>trimming</hi> of our <hi>new Maſters?</hi> Who cannot
+be long uncompel'd, if not by <hi>affection</hi> to themſelves and
+their Children, yet by ſtrong <hi>neceſsity,</hi> to ſet her a float un<g ref="char:EOLhyphen"/>der
+<hi>Juſtice</hi> and <hi>good Government;</hi> hitherto obſtructed by your
+ſelves and new declared Malignants, who have nothing to
+ſhew for their <hi>Lives and Fortunes,</hi> but the <hi>mercy</hi> and <hi>courage</hi> of
+thoſe they ſo bitterly exclaime againſt; Yet are not able
+to ſcreen themſelves from their <hi>Power;</hi> although as far
+from being <hi>pleaſed</hi> with it, as they can be <hi>ſafe</hi> without it.</p>
+            <p>Others preſuming on the <hi>Articles</hi> conceded at <hi>Oxford</hi> or
+elſewhere, proteſt themſelves injured by that innocent <hi>Act
+for Subſcription:</hi> But did they pleaſe to look back, now, upon
+the <hi>naked condition</hi> they ſtood in then, deſtitute of all hope
+of <hi>Reliefe;</hi> they might find greater cauſe to celebrate the
+<hi>goodneſſe,</hi> then arraigne of <hi>rigor,</hi> thoſe did begirt them: For
+had the total deſtruction of thoſe <hi>Lords</hi> and <hi>Gentlemen,</hi> been
+ſo gratefull to the <hi>State,</hi> as ſome in ſpleen, others in igno<g ref="char:EOLhyphen"/>rance
+doe ſince repreſent; the <hi>ſiege</hi> need have been conti<g ref="char:EOLhyphen"/>nued
+but a few daies, and all muſt have periſht by the
+hands of <hi>deſpaire,</hi> or without <hi>caution</hi> have caſt themſelves
+into thoſe of Mercy: or ſay the <hi>Commanders in chiefe</hi>
+(never known prodigall of blood or time) to give
+an honourable pretence for the <hi>rendition</hi> of that <hi>place,</hi>
+which the enemies had made impregnable by ſo many
+<pb n="4" facs="tcp:115311:6"/>
+               <hi>Oathes</hi> nnd <hi>Proteſtations,</hi> did yeeld to more then in reaſon
+could be asked, or granted, from ſo imperative a <hi>Power;</hi> It
+cannot be imagined they meant to ſituate them in a higher
+condition then they were themſelves; making that arbitra<g ref="char:EOLhyphen"/>ry
+and at the will of the <hi>Vanquiſhed,</hi> which is impoſed with<g ref="char:EOLhyphen"/>out
+exception, on all that <hi>Overcame:</hi> By which they had not
+only bound their own hands from <hi>puniſhing</hi> all future <hi>diſo<g ref="char:EOLhyphen"/>bedience;</hi>
+but left their enemies the liberty to <hi>ſubſcribe</hi> to the
+<hi>ruine,</hi> that they refuſe, to the <hi>preſervation</hi> of themſelves and
+their country.</p>
+            <p>Conſult ſeriouſly your own conſciences, and catechiſe
+them with this <hi>Queſtion;</hi> What <hi>Oathes, Confiſcations, Reſtraints,</hi>
+and <hi>Obligations</hi> ſhould have been impoſed on all had ſurvi<g ref="char:EOLhyphen"/>ved
+your revenge, In caſe providence had caſt the <hi>Die</hi> of
+<hi>War</hi> to the like advantage on your ſide? And you will not
+only bluſh at your own ſhame, but confeſſe your ſelves
+<hi>doubly ſubdued,</hi> firſt by the <hi>Valour,</hi> then the <hi>Civility</hi> of thoſe
+you pronounce the meaneſt of men.</p>
+            <p>The <hi>Norman Conqueſt,</hi> hitherto the faireſt flower in the
+Crowne of our <hi>Kings,</hi> and this of the <hi>Armie's,</hi> were cut out
+with the <hi>ſame Iron,</hi> by the hand and direction of a like <hi>Pro<g ref="char:EOLhyphen"/>vidence:</hi>
+The difference is, he was a <hi>Stranger,</hi> theſe <hi>Natives;</hi>
+He eſtabliſhed a <hi>Monarchy,</hi> whoſe nature is to decline into
+<hi>Tyranny;</hi> Theſe a <hi>Government</hi> ſtiled by all Politicians, <hi>Free;</hi>
+And if you find it otherwiſe, you may thank your ſelves,
+who will neither be happy, nor ſuffer others; But oppoſe ſo
+obſtinately the <hi>Publique Eſtabliſhment,</hi> out of no more weigh<g ref="char:EOLhyphen"/>ty
+reaſon, then to reinitiate <hi>ſplendid Titles,</hi> ſo farre from be<g ref="char:EOLhyphen"/>ing
+eſſentiall to humane felicity, that ſuch Nations as have
+them, were never thought the happieſt; no more then thoſe
+that want them, the moſt miſerable.</p>
+            <p>Were I ſo uncivil, as to draw the curtayne charity hangs
+before the <hi>Actions</hi> of <hi>dead Princes;</hi> I could match, out of the
+<hi>Annals</hi> of <hi>your own Government,</hi> as great diſorders and oppreſ<g ref="char:EOLhyphen"/>ſions,
+as you note in <hi>this;</hi> The <hi>latter</hi> being rendred ſo much
+the more excuſable, becauſe, not only <hi>precedented</hi> by the
+<hi>former,</hi> but created and continued to prevent ſuch miſchiefs,
+<pb n="5" facs="tcp:115311:6"/>
+as your implacable Spirits doe foment in the hearts of ig<g ref="char:EOLhyphen"/>norant
+and abuſed people; To whom though a Govern<g ref="char:EOLhyphen"/>ment
+be moſt neceſſarie, <hi>this</hi> kind <hi>or that</hi> is as abſolutely in<g ref="char:EOLhyphen"/>different.
+Yet if your doctrine be infallible, <hi>That a King is
+only reſponſible to God for his worſt actions;</hi> it cannot but increaſe
+al wiſe mens affections to a Juriſdiction ſo modeſt, as to ac<g ref="char:EOLhyphen"/>knowledge
+their <hi>beſt</hi> correſpondent to the people, at leaſt
+in their <hi>Repreſentative:</hi> And if you will ſuffer ſuch a Go<g ref="char:EOLhyphen"/>vernment
+as theſe drive at, quietly to be ſetled, it may be
+geſt, by <hi>Venice</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces</hi> (though inconſide<g ref="char:EOLhyphen"/>rable
+for ſtrength in reſpect of England) what wonders
+may be expected; the firſt having ſtood a bulwarke for a<g ref="char:EOLhyphen"/>bove
+a thouſand years againſt the <hi>Turkes,</hi> as the later hath,
+from her infancy, a wall to the <hi>King of Spaine's</hi> incroach<g ref="char:EOLhyphen"/>ments.</p>
+            <p>I doe not believe, thoſe daily <hi>Alarum's,</hi> you give the <hi>State,</hi>
+are beaten by your <hi>conſciences;</hi> but the lowder <hi>Paſſions</hi> of <hi>Am<g ref="char:EOLhyphen"/>bition,</hi>
+and <hi>Revenge:</hi> And if you could remaine quiet, you
+might abundantly ſatisfie both, by <hi>ſharing in the Government;</hi>
+and helping farther to chaſtiſe the perfidious <hi>Scot,</hi> who (un<g ref="char:EOLhyphen"/>der
+God's vengeance for our Sins) was, you think, the cauſe
+of all theſe diſtempers.</p>
+            <p>You are to blame, if you have not already done your
+beſt to ſet up that Intereſt, your Conſciences, for the pre<g ref="char:EOLhyphen"/>ſent,
+taught you to maintaine, and if <hi>ſo,</hi> you are freed
+from the ſhackells of all former <hi>Oaths</hi> and <hi>engagements;</hi> Man
+being bound to no performance beyond poſſibility: yet
+leaſt this ſhould ſeem too weake a diſcharge for ſo much
+<hi>honour</hi> and <hi>fidelity,</hi> as you pretend to owe <hi>your King; God</hi> hath
+called <hi>him</hi> to an <hi>higher Court:</hi> And that he hath reſerved all
+cognizance of the <hi>manner of his removeall</hi> wholly to <hi>himſelfe</hi>
+appears, by placing the <hi>Authors</hi> of it above the reach of any
+power, but his own.</p>
+            <p>It ſhall not be <hi>the project</hi> of this <hi>Diſcourſe</hi> either to <hi>natu<g ref="char:EOLhyphen"/>ralize,</hi>
+or make <hi>invalid</hi> the <hi>Lines</hi> of <hi>Princes:</hi> though the truth
+or falſehood of them is made ſo contingent by the <hi>infidelity
+of Women;</hi> as it doth much abate my zeale, and may doe all
+<pb n="6" facs="tcp:115311:7"/>
+others in the proſecution of <hi>their intereſts,</hi> before <hi>that of a Free
+State;</hi> in a Nation ſo exhauſted and tattered by diviſions
+already, as it cannot but expire under a milder <hi>conflict,</hi> then
+theſe new and <hi>Victorious Governors</hi> will make, rather then
+part with their power, on which depend their <hi>heads,</hi> as deare
+to them as a <hi>Crown</hi> can be to thoſe that bid for it; who be<g ref="char:EOLhyphen"/>ing
+out of <hi>poſſeſſion,</hi> are not ſo likely to find <hi>friends</hi> as <hi>enemies;</hi>
+eſpecially in this <hi>conjuncture,</hi> when moſt <hi>Nations</hi> have need of
+more <hi>ſwords</hi> then their own, and therefore likelier to bor<g ref="char:EOLhyphen"/>row
+then lend aſſiſtance: Neither is it a ſlight omen of their
+continuance that the <hi>wiſe Spaniard</hi> courts them: As for
+<hi>France</hi> they have <hi>worke ſufficient</hi> cut out already, or in caſe of
+want, we are neere enough to ſend them more: Concern<g ref="char:EOLhyphen"/>ing
+<hi>Danes</hi> and <hi>Swedes,</hi> they may, like the <hi>Cat,</hi> deſire the
+ſweet milke of England, but will hardly venture wetting
+their feet, or the encountring an <hi>Engliſh Navy:</hi> It being not
+likely that ſuch <hi>Forraine Princes</hi> as ſtood ſtill all the <hi>Fathers
+time,</hi> who had an <hi>Army</hi> might ſecure their landing, will in
+his <hi>vanquiſht Sons</hi> be active, who hath now almoſt nothing
+left to aſſure ſucceſſe, but the <hi>unarmed diſcontent</hi> of ſome <hi>Sub<g ref="char:EOLhyphen"/>jects;</hi>
+which cannot be ſo unadviſed, as to venture what is
+left at the <hi>curteſy of ſtrangers;</hi> much leſſe can their hopes be ſo
+buried in the diſpaire of the <hi>moderate government of their coun<g ref="char:EOLhyphen"/>trymen,</hi>
+as to think to meaſure out a better by the <hi>ſplinters</hi> of
+that <hi>broken reed Scotland,</hi> That hath no cleanlier way to re<g ref="char:EOLhyphen"/>deeme
+her ſelfe from being the by-word and hiſſing of the
+World, for former <hi>Treacheries</hi> towards their <hi>Native Kings,</hi>
+then by ſelling us and our children to a perpetuall ſlavery
+under one of their <hi>exaſperated Sons:</hi> Neither durſt they have
+ventured <hi>ſo much beating,</hi> had they not been encouraged by a
+mouldy Prophecy, <hi>That England</hi> (in which you have yet a
+great ſhare, and may keep it if you will be quiet) <hi>muſt be one
+day ruin'd by the baſeſt of people;</hi> which, in their own apprehen<g ref="char:EOLhyphen"/>tion,
+can be underſtood of none but themſelves.</p>
+            <p>The <hi>Apoſtle Paul</hi> commands <hi>Chriſtians</hi> to <hi>ſubmit</hi> to the <hi>pre<g ref="char:EOLhyphen"/>ſent
+power,</hi> for <hi>Conſcience ſake;</hi> And juſtifies this <hi>Precept</hi> ſo far
+by his own <hi>example,</hi> as to appeare before a <hi>Court of Juſtice,</hi>
+               <pb n="7" facs="tcp:115311:7"/>
+no leſſe <hi>illegall</hi> in regard of the Nation of the <hi>Jewes,</hi> then
+<hi>corrupt</hi> in reſpect of the <hi>Judges:</hi> where by his Rhetoricall
+expreſſions he teacheth us, <hi>to own all Juriſdictions God hath
+pleaſed to endow with an Imperative power:</hi> Elſe we ſhould deny
+that to the <hi>Magiſtrate,</hi> which we make no conſcience to con<g ref="char:EOLhyphen"/>cede
+to <hi>Theeves;</hi> from whom we take our ſelves to be happi<g ref="char:EOLhyphen"/>ly
+diſcharged, if we eſcape only with the loſſe of our mo<g ref="char:EOLhyphen"/>ny,
+and a <hi>promiſe</hi> never to doe any thing to their preju<g ref="char:EOLhyphen"/>dice.</p>
+            <p>Nor can I think <hi>Panl</hi> would have ſhewn leſſe compli<g ref="char:EOLhyphen"/>ance,
+or uſed courſer language, had his triall fallen out in
+the daies of <hi>Galba, Otho,</hi> or <hi>Vitellius;</hi> the which had <hi>no ſtronger
+titles</hi> then the <hi>ſword</hi> eſtated them in; being all ſtrangers to
+the line of the <hi>firſt Caeſars,</hi> or any adopted by them.</p>
+            <p>Nay had <hi>Piſoe's Conſpiracy</hi> ſucceeded, and <hi>Rome</hi> by wiſe
+<hi>Seneca's</hi> perſwaſion been reduced to their ancient <hi>Liberty;</hi>
+would the <hi>Apoſtles</hi> unwillingneſſe have been more, to <hi>ſub<g ref="char:EOLhyphen"/>ſcribe</hi>
+to that, then the <hi>Title of Nero?</hi> Can you think he
+would have pretended <hi>antiquitated Oathes, Covenants,</hi> or I
+know not what <hi>Proteſtations</hi> formerly exacted? which if of<g ref="char:EOLhyphen"/>fered,
+he could not have avoided; a refuſall being as unſu<g ref="char:EOLhyphen"/>table
+to his <hi>Doctrine</hi> as <hi>ſafety:</hi> For we never heard newes,
+till theſe times, of <hi>State-Martyrs;</hi> The <hi>primitive Saints</hi> think<g ref="char:EOLhyphen"/>ing
+all <hi>Kingdomes</hi> too poore to dye for, but that of <hi>Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <p>Indeed <hi>Shimei</hi> of the Houſe of <hi>Saul,</hi> would needs be <hi>cur<g ref="char:EOLhyphen"/>ſing</hi>
+where <hi>God blest;</hi> which gave occaſion to <hi>Solomon</hi> to
+leave a <hi>Precedent</hi> under which you are ſallen for the like
+<hi>luxuriouſneſſe of ſpeech.</hi> And here <hi>note</hi> by the way, <hi>how ſhort
+liv'd the love and forgiveneſſe of Princes are:</hi> Since the <hi>beſt,</hi> though
+he could <hi>forget Jonathan his friend,</hi> was ſure to <hi>remember Shi<g ref="char:EOLhyphen"/>mei
+his enemy:</hi> both ſecured by <hi>Covenant,</hi> the firſt of <hi>Amity;</hi>
+the latter of <hi>Charity,</hi> in acknowledgement of his kindnes
+in meeting him.</p>
+            <p>Now if <hi>David</hi> could not dye quietly inteſtate to <hi>Revenge,</hi>
+what huge <hi>Legacies</hi> may we expect from the <hi>Heire of a Fa<g ref="char:EOLhyphen"/>her,</hi>
+who loſt not only his <hi>Crowne,</hi> but the <hi>Head</hi> that ware
+<pb n="8" facs="tcp:115311:8"/>
+it? or if ſo much <hi>temperance</hi> might be found in his <hi>Succeſſor</hi>
+as might mortify <hi>ſo high provocations;</hi> Yet the daily cryes and
+clamours of the <hi>Widows</hi> and <hi>Fatherleſſe,</hi> whoſe <hi>Husbands, Fa<g ref="char:EOLhyphen"/>thers,</hi>
+and <hi>Eſtates</hi> were loſt in his defence, could not chooſe
+but call revenge up againe. It being an ordinary courſe
+for <hi>Princes</hi> to eſteem that part of their aſſiſtance as is loſt in
+<hi>ill ſucceſſe,</hi> ſo little below <hi>enimies,</hi> as they oftentimes confiſ<g ref="char:EOLhyphen"/>cate
+their <hi>Eſtates,</hi> only to encreaſe the encouragement of
+thoſe, from whom they hope to receive better. And if it be
+not the <hi>complexion</hi> of <hi>Kings</hi> to be <hi>ingratefull,</hi> I pray give me
+the <hi>Reaſon,</hi> why <hi>Henry</hi> the 7<hi rend="sup">th</hi> cut off <hi>Stanlies head,</hi> after he
+had ſet the <hi>Crown</hi> upon his <hi>own?</hi>
+            </p>
+            <p>Therefore let not the ſound of your diſcontent be heard
+in other <hi>Nations,</hi> to the prejudice of the happineſſe of your
+<hi>own:</hi> By which the eares of all that delight in warre are ſo
+tickled, that the <hi>Sea,</hi> this Iland is encompaſſed with, were
+too <hi>ſhallow</hi> to keep them out, but that tis aſſiſted by a grea<g ref="char:EOLhyphen"/>ter
+<hi>depth</hi> of <hi>Gods mercy.</hi>
+            </p>
+            <p>Such as <hi>oppreſſe</hi> unneceſſarily the <hi>people,</hi> ſhall never want
+<hi>enemies;</hi> nor thoſe that truly <hi>ſtand for Liberty, friends:</hi> There<g ref="char:EOLhyphen"/>fore
+have patience, and aſſure your ſelves, that <hi>God,</hi> which
+harh taught the Army the waies to ſo much miraculous
+ſucceſſe, will ſuddainly (after this generall <hi>ſubmiſſion</hi> I per<g ref="char:EOLhyphen"/>ſwade
+to) inſpire them with an <hi>Enſtabliſhment</hi> may make
+us happy: or in caſe they neglect it, undoubtedly ſend as
+<hi>exemplary a ruine</hi> upon their own heads.</p>
+            <p>Let me therefore entreat you to imitate your <hi>Anceſtors,</hi>
+who ſuffered the <hi>Crown of England</hi> with more patience, to
+be transferred from one <hi>Strangers</hi> head to another, then <hi>you
+doe</hi> contribute to the ſetting it on <hi>your own</hi> and <hi>your childrens:</hi>
+There being nothing able to render you uncapable of it,
+but an unſeaſonable deſire to wring it out of <hi>their hands,</hi>
+who, I hope, have no more ambitious <hi>ends</hi> in retaining it ſo
+long, then to make it <hi>fit</hi> and <hi>eaſy</hi> for you: Neither can any
+be in a right capacity to receive it, till brought to ſuch a
+temper, as it is <hi>indifferent</hi> to them, either to <hi>obey</hi> or <hi>command.</hi>
+            </p>
+            <p>If you are ſo deſirous the <hi>letter of the Law</hi> ſhould be
+<pb n="9" facs="tcp:115311:8"/>
+exactly obſerved, doe nothing contrary to the <hi>ſenſe of it,</hi>
+which is the <hi>preſervation of the Government in being;</hi> whoſe quiet
+it is now as naturally to intend, as it was formerly that of
+Kings: Alter but the <hi>Name,</hi> and contribute the like <hi>obedi<g ref="char:EOLhyphen"/>ence,</hi>
+and you are juſt where you were. But if this be deni<g ref="char:EOLhyphen"/>ed,
+doe not wonder, that <hi>new trials</hi> are oppoſed to <hi>new of<g ref="char:EOLhyphen"/>fences:</hi>
+For if <hi>ordinary Jurers</hi> will aſſigne no puniſhment for
+them which act by the <hi>Kings Authority,</hi> it is fit the <hi>State</hi> ſhould
+<hi>provide</hi> others to take care, that in caſe it be employed a<g ref="char:EOLhyphen"/>gainſt
+their <hi>ſafety,</hi> ſuch as doe it may not eſcape without
+puniſhment: Since <hi>God,</hi> that hath given them ſuch vaſt ſuc<g ref="char:EOLhyphen"/>ceſſes,
+hath alſo endued them with more <hi>Prudence,</hi> then to be
+ruin'd by <hi>niceties.</hi>
+            </p>
+            <p>Neither are they leſſe reſolved to defend themſelves from
+<hi>unavoidable ruine,</hi> then you to obtaine a more <hi>uncertaine re<g ref="char:EOLhyphen"/>ward.</hi>
+This makes me believe you would have as much rea<g ref="char:EOLhyphen"/>ſon
+to bewaile an <hi>abſolute victory,</hi> as they a <hi>totall loſſe.</hi> For in
+that caſe, if the Nation ſhould eſcape the <hi>tyranny of Strangers,</hi>
+it were impoſſible to avoid falling into a greater of her <hi>own:</hi>
+It being <hi>the cuſtome of all Princes, to proportion the weight of the
+peoples fetters, to their owne feares:</hi> Now how the <hi>Cavaliers</hi> can
+be <hi>free,</hi> when the <hi>Roundheads</hi> are <hi>ſlaves,</hi> is not to be found in
+the ſmall volumne of my <hi>Politicks.</hi>
+            </p>
+            <p>Though the <hi>High Presbyterian</hi> ſo ſuddenly <hi>ſwel'd</hi> with the
+hope he had ſwallowed of <hi>Soveraignty,</hi> that he <hi>brake</hi> in the o<g ref="char:EOLhyphen"/>pinio<g ref="char:cmbAbbrStroke">̄</g>
+of the people, before he was able to ſet up for himſelf,
+by indeavouring to lay to every <hi>ſingle Pariſh,</hi> a power judg'd
+too unweldy for a <hi>Dioces;</hi> Yet I thought not to have taken
+him ſo ſoon in the habit of a <hi>Malignant;</hi> which ſuits better
+with his <hi>paſſion,</hi> then the <hi>gravity</hi> &amp; <hi>piety</hi> he pretends to; or <hi>diſ<g ref="char:EOLhyphen"/>cretion,</hi>
+which cannot but dictate to him, that he hath ſinned
+paſt forgiveneſſe, by <hi>reducing the Crown to the laſt extremity;</hi> And
+<hi>compelling the Army</hi> by an unparalleld ingratitude, to actions
+more ſutable to <hi>his own,</hi> then the <hi>chiefe Commanders</hi> former
+deportment; in which if they lean'd too much on <hi>worldly po<g ref="char:EOLhyphen"/>licy,</hi>
+it was to avoid falling into that <hi>viſible pit,</hi> the heads of
+this party had contrived for them.</p>
+            <p>What religious <hi>obſervers of the Covenant,</hi> they have been, &amp;
+<pb n="10" facs="tcp:115311:9"/>
+what <hi>enemies</hi> to the known faults of the <hi>Biſhops,</hi> they with
+ſo much ſpleen, exploded, may appeare by the <hi>multitudes</hi> of
+<hi>preferments,</hi> and <hi>bunch of Steeples</hi> the have <hi>hung to their purſe<g ref="char:EOLhyphen"/>ſtrings:</hi>
+Beſides their ungratefull <hi>deſertion of that Army,</hi> who,
+when they durſt not truſt their own ſide, for feare of being
+<hi>betrayed;</hi> expunged, by their <hi>faithfull valour,</hi> that <hi>ſentence</hi> of
+<hi>death,</hi> which thoſe they ſeem to adhere to now, had <hi>writ up<g ref="char:EOLhyphen"/>on
+every wall againſt them.</hi>
+            </p>
+            <p>Is it not a ſad thing, to ſee <hi>Conſcience</hi> like a cloake-bag,
+<hi>ſtuft with all carriages,</hi> be they foule or faire? Were not the <hi>Pa<g ref="char:EOLhyphen"/>piſts
+truer friends</hi> to their <hi>Countries peace;</hi> who upon a <hi>change in
+Religion,</hi> and more to their <hi>generall diſadvantage,</hi> then this can
+be, to any at enmity with Rome, <hi>ſwore Allegeance</hi> to thoſe of
+<hi>contrary Tenents;</hi> The <hi>truth</hi> of which they ſo far maintained, as
+in the year 88, many appeared with conſiderable forces, in
+favour of a <hi>Proteſtant Queen,</hi> againſt him they ſtiled the moſt
+<hi>Catholick King?</hi>
+            </p>
+            <p>For thoſe they call <hi>Levellers,</hi> ſo many of their <hi>Propoſitions</hi>
+as may concern <hi>the equall administration of Juſtice,</hi> and the <hi>Li<g ref="char:EOLhyphen"/>berty
+of the People,</hi> ought no doubt to be harkned unto: But
+their <hi>Conſciences</hi> being poſſibly agitated by <hi>ſubtiler heads then
+their own</hi> (the Divell never being in a greater capacity to
+act miſchiefe, then when he is transformed into an Angel of
+light) it behooves them to be wary; leaſt, pretending to a
+government more <hi>exact</hi> then humane corruption is capable
+of, they doe not fall into a <hi>worſe</hi> then ever yet was eſtabli<g ref="char:EOLhyphen"/>ſhed:
+For if they create a <hi>diviſion in the Army,</hi> they promote
+the <hi>ends of their enemies,</hi> and ſhall ſet up nothing but tyranny,
+and the deſtruction of themſelves and their Party.</p>
+            <p>Then ſince this <hi>Nation</hi> hath endured ſo many ſeverall
+<hi>changes,</hi> in theſe later years, without any conſiderable dimi<g ref="char:EOLhyphen"/>nution
+of her <hi>ſplendor</hi> and <hi>felicity;</hi> I heartily pray it may not
+run a ſeverer fortune hereafter; which cannot be better pre<g ref="char:EOLhyphen"/>vented,
+then for <hi>all Parties</hi> in their ſeverall relations, quietly
+<hi>to ſubmit to this preſent Government:</hi> Which having the only
+<hi>power of Protection,</hi> cannot in juſtice be denied the <hi>duty of Obe<g ref="char:EOLhyphen"/>dience.</hi>
+To perſwade which the more eaſily, I moſt humbly
+beg of thoſe in Authority, <hi>To concede to the juſt deſires and Tears
+of the Nation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:115311:9"/>
+            <head>A
+PLEA FOR
+THE PRESENT GOVERNMENT,
+COMPARED WITH
+MONARCHY.</head>
+            <p>
+               <seg rend="decorInit">N</seg>OTHING makes me more ſenſible of
+the <hi>wrath of God for ſinne,</hi> then the conſidera<g ref="char:EOLhyphen"/>tion,
+That <hi>want and oppreſſion are become the ill
+conſequents of that primitive Bleſſing, Increaſe and
+multiply;</hi> from whence the Devill taking ad<g ref="char:EOLhyphen"/>vantage
+on our naturall <hi>ſelfe-love,</hi> raiſeth up
+<hi>Covetouſneſſe,</hi> the parent of <hi>Propriety;</hi> out of whoſe boſome
+reſult all humane calamities: Amongſt which this is one of
+the moſt ſevere, That it renders us uncapable to be gover<g ref="char:EOLhyphen"/>ned
+without Lawes; being too partiall, to judge uprightly
+betweene our <hi>owne intereſt,</hi> and <hi>our neighbours;</hi> ſo as where
+<hi>Right</hi> is abſent, <hi>Power</hi> ſteps in and ſupplyes her place.</p>
+            <p>This at firſt neceſſitated <hi>Juriſdiction;</hi> And the example of
+<hi>one God</hi> might preſent a pattern for <hi>Monarchy:</hi> But <hi>Kings</hi> did
+ſo farre deviate from this <hi>precedent,</hi> that they quite forgot,
+their <hi>Election</hi> was to <hi>encreaſe the felicity and eaſe of their Subjects,
+not their owne:</hi> Which hath cauſed people in all ages to
+have recourſe to <hi>Armes;</hi> whereby ſometimes they impaired,
+<pb n="12" facs="tcp:115311:10"/>
+ſeldome mended their Condition: Becauſe out of pride,
+ignorance, or a ſuperſtitious reverence to cuſtome, they re<g ref="char:EOLhyphen"/>fuſed
+to entruſt <hi>more then one</hi> with their Obedience: And we
+have cauſe to believe, that the exorbitant power, and ſcan<g ref="char:EOLhyphen"/>dalous
+adoration given to <hi>Princes</hi> (in which, like <hi>Promotheus,</hi>
+they robbe God of his Divinity, beſtowing the <hi>Attributes</hi> of
+<hi>Sacred, Worſhip,</hi> and <hi>Majeſty</hi> upon a ſinfull Man) grew at the
+beginning out of the bitter root of <hi>Idolatry;</hi> This dignity
+being at firſt found among the <hi>Heathen,</hi> and never taken into
+one <hi>Family</hi> by <hi>the people of God,</hi> till in likelyhood, <hi>the goodneſſe
+of David</hi> had allured them, and the <hi>wiſedome of Salomon</hi> in<g ref="char:EOLhyphen"/>ſnared
+them into an abſolute tyranny, under the <hi>Houſe of
+Jeſſe:</hi> Which they ſaw ſo much cauſe to repent of, as <hi>ten
+Tribes</hi> caſt it off by a <hi>Defection,</hi> made legitimate by God him<g ref="char:EOLhyphen"/>ſelfe.
+And what frequent <hi>changes</hi> followed, appeares in Sa<g ref="char:EOLhyphen"/>cred
+Story; ſet downe no doubt not onely for the <hi>inſtructi<g ref="char:EOLhyphen"/>on
+of Kings,</hi> but as a <hi>direction for Subjects</hi> what to doe in ſuch
+caſes of oppreſſion: <hi>Like cauſes being liable to the like effects.</hi>
+            </p>
+            <p>
+               <hi>Greece</hi> and <hi>Rome,</hi> from whom the grounds of Learning
+are deduced, did ſuffer their wanton <hi>Poets</hi> to endow their
+<hi>Princes</hi> with the powers and names of their <hi>Gods;</hi> and their
+<hi>Gods</hi> with the vices of their <hi>Kings;</hi> as Adulteries, Rapes, Op<g ref="char:EOLhyphen"/>preſſions,
+Thefts, &amp;c. not ſparing <hi>Jupiter</hi> himſelfe, whom
+they chalenge to have wreſted the Celeſtiall Monarchy
+from his Father <hi>Saturne:</hi> (in which is morallized the un<g ref="char:EOLhyphen"/>naturalneſſe
+of Ambition, breaking through all Relations,
+though never ſo ſacred). But as the <hi>Idols of the Heathen</hi> can<g ref="char:EOLhyphen"/>not
+be diſtinguiſhed from ordinary <hi>ſtones,</hi> unleſſe by the <hi>wor<g ref="char:EOLhyphen"/>ſhip</hi>
+given them by thoſe, who yet upon <hi>higher illuminations,</hi>
+doe breake or caſt them away: So though <hi>Princes</hi> (ſuch
+Monſters in power) are able to dazle the weake eyes of ig<g ref="char:EOLhyphen"/>norant
+men, by the falſe rages of Divinity, the flattering
+<hi>Clergy</hi> flaſh in the faces of ſuch as oppoſe them; Yet it is no
+leſſe then miraculous, that wiſe men ſhould be ſo enamoured
+on <hi>the workes of their owne hands,</hi> as to place ſuch ſo near God,
+and to pronounce them unaccountable for perſonall faults,
+much leſſe for thoſe of ſo epidemicall a nature, that they
+<pb n="13" facs="tcp:115311:10"/>
+concern the welfare of all; forgetting that fleſh and bloud
+is of ſo wild a condition, that nothing can reſtraine it but
+the fearfull apparition of ſome viſible puniſhment; And
+that other <hi>Governments</hi> want not the <hi>bleſſings</hi> of the beſt of
+<hi>Monarchies,</hi> yet ſtand uncharged with their <hi>inconveniences</hi> (It
+being poſſible to be a <hi>bad King,</hi> though a <hi>good man</hi> in an in<g ref="char:EOLhyphen"/>feriour
+Relation: The whole maſſe of Hiſtory being ſcarce
+able to furniſh out one in all points accompliſhed with ſo
+many <hi>Regall virtues,</hi> as might compenſe the <hi>damages</hi> received
+from his <hi>Predeceſſour,</hi> or him that did immediatly <hi>ſucceed:</hi> Yet
+dazled with the ſplendor of a <hi>Title,</hi> whoſe <hi>foule originall</hi> con<g ref="char:EOLhyphen"/>tinuance
+hath razed out of the memories of the moſt, The
+ignorant multitude doe, without any ſcrutiny after worth
+or conveniency, thinke themſelves obliged to ſubmit to the
+<hi>untry'd diſcretion</hi> of the next of the ſame <hi>Line:</hi> So farre in<g ref="char:EOLhyphen"/>truſted
+in <hi>England</hi> before the <hi>Conqueſt,</hi> that the <hi>deciſion</hi> of all
+<hi>controverſies</hi> lay incumbent in the perſon of the <hi>King</hi> onely;
+till corruption and oppreſſion had given cauſe to mould
+<hi>Reaſon</hi> into a more certaine <hi>Law;</hi> which no reſpect to their
+Subjects good, but onely their owne trouble or viſible con<g ref="char:EOLhyphen"/>ſtraint,
+was able to tempt them to: Yet the people were ſo
+ſimple, that upon the leaſt <hi>conceſſion of eaſe,</hi> they buried the
+benefit which might have reſulted from their expence of
+bloud and treaſure, in the ſame <hi>Government,</hi> if not in the ſame
+<hi>perſon,</hi> they had oppoſed; who was made the more <hi>cunning,</hi>
+not the <hi>better,</hi> by any thing had paſs'd; it being the buſineſſe
+of all <hi>politique Princes,</hi> to rebate the <hi>edge</hi> of the <hi>Lawes</hi> towards
+themſelves, for whoſe moderation they were chiefly inten<g ref="char:EOLhyphen"/>ded,
+and to render them mortall to the people; who in caſe
+they were too weake to make good the <hi>juſteſt quarrell</hi> againſt
+their <hi>King,</hi> periſhed as Traitors, when the true treaſon was
+perpetrated by their <hi>Prince</hi> and his <hi>evill Counſellours;</hi> who are
+ordinarily the firſt cauſers of commotions by their cruelty
+and oppreſſions.</p>
+            <p>Now the <hi>indiſcretion of our Anceſtors</hi> hath beene ſuch, tem<g ref="char:EOLhyphen"/>pted
+to it by the <hi>miſeries</hi> incident to <hi>Civill Warre,</hi> as they
+gave conceſſion to all the Lawes reaſon or experience could
+<pb n="14" facs="tcp:115311:11"/>
+preſent were likely to ſtrengthen the ſecurity of the King
+in fact; So as the juſteſt oppoſition in the Subject lay under
+no ſlighter penalty, then the <hi>loſſe</hi> of <hi>Honour, goods, lands</hi> and
+<hi>life:</hi> Forgetting, That <hi>the ſtronger Fortification was raiſed before
+the gates of Kings, the more difficult they rendred all acceſſe to Liberty,</hi>
+when ever they were invaded by <hi>Tyranny,</hi> or the peoples <hi>con<g ref="char:EOLhyphen"/>veniency</hi>
+ſhould call for another <hi>Government</hi> leſſe ranting and
+expenſive.</p>
+            <p>And I may be confident, this could not have been effe<g ref="char:EOLhyphen"/>cted
+with ſuch eaſe, but upon a preſumption <hi>That the power
+of Parliaments was thought ſubordinate to any Law,</hi> Experience
+being barren of occaſion to make demonſtration, where
+the <hi>Legiſlative power</hi> ſhould <hi>reſide,</hi> in caſe of a <hi>rupture</hi> between
+the <hi>King</hi> and <hi>both</hi> or either <hi>Houſe,</hi> never till now in diſpute,
+though tacitly implied in the caſes of ſuch as tis known
+they have <hi>depoſed</hi> (which queſtionleſſe was done without
+the <hi>Royall aſſent;</hi>) Therefore not being determinated in ex<g ref="char:EOLhyphen"/>preſſe
+words, it might be thought impoſſible, <hi>a Court ſo para<g ref="char:EOLhyphen"/>mount,</hi>
+ſhould lye included under <hi>generall Rules,</hi> eſteemed in
+all grants unable to prejudice the <hi>Crown,</hi> and therefore with
+better Reaſon unbinding to the <hi>Parliament,</hi> often known not
+only to diſpoſe of <hi>that,</hi> but <hi>the heads</hi> that wore it, So farre as
+to determine ſome <hi>unable,</hi> ſome <hi>unworthy</hi> to governe. And
+if any ſhould endeavour to ſet <hi>bounds</hi> to the <hi>power</hi> of this
+<hi>High Court,</hi> it was as vaine an attempt, as to limit the Nati<g ref="char:EOLhyphen"/>on
+to ſuch an extent of felicity; which could no longer
+hold in nature or Reaſon, then thoſe that did it were able
+by love or force to maſter her ſtrength; which wiſdome
+would perſwade her to reſume upon the firſt approach of
+advantage. Beſides, the <hi>King</hi> owning himſelfe but a <hi>third
+Eſtate</hi> (as you may find in one of his <hi>well-pen'd Declarations</hi>)
+he could not, by his abſence, remove power ſo farre from
+<hi>the other,</hi> but that it did vertually remain in ſome hands for
+<hi>the good of the People (eſteemed the ſupreme Law)</hi> ſuppoſed in all
+probability to be more cordially intended by <hi>the other,</hi> by
+reaſon they were inſeparable companions with the people
+in any good or evill redounded to them from the Law;
+<pb n="15" facs="tcp:115311:11"/>
+Then by <hi>the Prince,</hi> whoſe Intereſt was ſingle, and ſo farre
+remote from epidemicall ends, that he might, by incroach<g ref="char:EOLhyphen"/>ment,
+improve his condition to a ſelfe-advantage, raiſing a
+<hi>particular gaine,</hi> at the <hi>coſt</hi> of <hi>the Publique;</hi> not probably to
+be intended by the <hi>Nobility,</hi> unleſſe their reaſon were quite
+loſt in their <hi>dependance on the Crown;</hi> but impoſſible to be pro<g ref="char:EOLhyphen"/>jected
+by the <hi>Commons,</hi> who after <hi>diſſolution,</hi> and their power
+returned to thoſe that gave it, all <hi>markes of diſtinction</hi> ceaſe,
+and they are mingled with the reſt of the people, being e<g ref="char:EOLhyphen"/>quall
+ſharers in what loſſe or advantage the <hi>Repreſentative,</hi>
+in which they did reſide, produced to the <hi>Commonwealth.</hi>
+            </p>
+            <p>Wherefore if a <hi>Parliament</hi> falls in pieces, as this hath done,
+ſo much <hi>Legall power</hi> cannot remaine in <hi>both the other,</hi> as in
+the <hi>Houſe of Commons,</hi> The faireſt, moſt naturall, and leaſt
+partiall <hi>Repreſentative of the whole Nation,</hi> whoſe true and un<g ref="char:EOLhyphen"/>queſtioned
+<hi>proxcies</hi> they are; The <hi>Lords</hi> reſiding by <hi>birth,</hi> as
+the <hi>Biſhops</hi> (in theſe latter times) by <hi>favour;</hi> And both found
+by experience, rather to intend their <hi>owne</hi> ends, then the
+<hi>publique.</hi>
+            </p>
+            <p>And for ſuch as maintaine, That we owed <hi>the liberty of
+electing Parliaments,</hi> to the benevolence of our <hi>Kings,</hi> May as
+well ſay, we were indebted to them for <hi>our being</hi> or <hi>nature;</hi>
+which abhorres to hold felicity, and what is aſſigned for
+ſupportation, at the will of another; a ſervitude impoſſible
+to be impoſed upon a major part that are Maſters of right
+reaſon.</p>
+            <p>Now for the <hi>King,</hi> I ſhould not have looked for him a<g ref="char:EOLhyphen"/>mong
+the <hi>three Eſtates,</hi> much leſſe have owned <hi>him</hi> for <hi>one</hi> of
+them, had he not pleaſed to name himſelfe ſo, and, by this
+confeſſion, made empty the formerly unqueſtion'd ſeat of
+the <hi>Church;</hi> By which he rather did weaken, then ſupport, the
+unnaturall and deſtructive pretence he made to a <hi>Negative
+voyce:</hi> For where there is a <hi>Parity</hi> in an unſeparable union,
+it is impoſſible to find room for ſo much difference in power,
+as that the <hi>moſt ſingle and ſuſpected part</hi> (in regard of an experi<g ref="char:EOLhyphen"/>mented
+ſelfe-intereſt), ſhould determine of the fitneſſe or
+inconveniency of what the <hi>other</hi> ſhould preſent, without
+<pb n="16" facs="tcp:115311:12"/>
+giving a ſtronger Reaſon then his own <hi>Will;</hi> never known,
+but upon <hi>conſtraint,</hi> or for <hi>want of money,</hi> to contradict it ſelf
+for the <hi>peoples good.</hi>
+            </p>
+            <p>And though in caſes of <hi>equall correſpondency</hi> there might
+ſeeme ſome colour of <hi>Juſtice,</hi> yet here there cannot; Be<g ref="char:EOLhyphen"/>cauſe
+the <hi>King</hi> profeſſeth his <hi>Perſon</hi> ſo farre out of the point-blank
+of <hi>Law,</hi> as that he is <hi>reſponſible to none but God,</hi> for the
+worſt, not onely that he can doe <hi>himſelfe,</hi> but ſuffer to be
+done by his <hi>Inſtruments.</hi>
+            </p>
+            <p>Therefore ſince no <hi>tie</hi> can be made ſtrong enough to re<g ref="char:EOLhyphen"/>ſtraine
+him from breaking in to his <hi>Subjects</hi> moſt ſacred <hi>im<g ref="char:EOLhyphen"/>munities,</hi>
+this <hi>power</hi> muſt needs be too extravagant to mingle
+with <hi>theirs</hi> leſſe intereſſed; who are ſo modeſt as to confeſſe
+themſelves and their judgements implicitly contain'd in the
+ſuffrages of the <hi>Major part;</hi> though the <hi>Law</hi> paſs'd be never
+ſo contrary to their ſenſe: And I cannot but admire from
+whence this <hi>Infallibility</hi> ſhould at firſt be derived, which were
+no leſſe madneſſe for the people to give, then preſumption
+in any, below a God, to receive.</p>
+            <p>Such as allow the <hi>King</hi> a <hi>Negative voyce,</hi> forget they place
+the <hi>Abſtract</hi> of all the <hi>Prudence, Power</hi> and <hi>Probitie</hi> of the <hi>Na<g ref="char:EOLhyphen"/>tion,</hi>
+in one Individuall; <hi>Juells</hi> of too high a value to be
+packt up in ſo ſingle and <hi>weake Veſſels,</hi> as our <hi>Engliſh Monarchs</hi>
+appeare to have beene: But were they <hi>better,</hi> they might
+upon this account, enervate the graveſt reſults of the <hi>Su<g ref="char:EOLhyphen"/>preme
+Councell;</hi> yet denied by <hi>Law</hi> and <hi>Cuſtome</hi> the ability
+to quaſh the ſentence of an <hi>inferiour Court</hi> of Juſtice.</p>
+            <p>Then if no Example can be produc'd, of any <hi>King,</hi> that
+hath voluntarily, and out of no more impulſive reſpect, then
+meer conſcience and indulgency to his poor prince-trodden
+people, offered a <hi>Bill</hi> to abate the power he found ſo abuſed
+by his <hi>Predeceſſours,</hi> and not likely to be better employed by
+ſuch as might <hi>ſucceed;</hi> What greater Impudence can there
+be, then to maintaine, That this <hi>Negative vote</hi> is claimed only
+to avoid <hi>the abolition of good lawes,</hi> and to hinder <hi>the paſſing of
+worſe:</hi> Since it is notoriouſly knowne, that all the <hi>cuſtomes</hi>
+people complaine of, have beene intruded and ſtill kept in
+<pb n="17" facs="tcp:115311:12"/>
+being by the countenance of <hi>an exorbitant power</hi> pretended
+by Kings: And therefore ſuch a <hi>prerogative</hi> cannot be look'd
+upon as naturall and convenient, but deſtructive to the very
+eſſence of <hi>Liberty;</hi> and conſequently void in it ſelfe.</p>
+            <p>In caſe of <hi>Minority, Madneſſe</hi> and <hi>Folly,</hi> the triall of the
+<hi>Kings ſufficiency</hi> is without queſtion in the <hi>Parliament;</hi> and if
+that be allowed to determine the extent of his power in <hi>con<g ref="char:EOLhyphen"/>tingencies,</hi>
+no wayes chargeable upon any as <hi>faults:</hi> Shall
+wicked, contumacious and deſtructive <hi>principles</hi> and <hi>practiſes</hi>
+be exempt from <hi>their cognizance?</hi> Since the fool or mad man
+cannot be lyable to ſo ſevere a cenſure, as he that imployes
+his wit wholly to the deſtruction of his people. And if we
+<hi>trace</hi> our Kings through all the <hi>paths</hi> their <hi>incroachments</hi> have
+made over the <hi>peoples immunities,</hi> we ſhall find, it was <hi>not Cha<g ref="char:EOLhyphen"/>rity</hi>
+hath kept them from being more tyrannicall, <hi>but Weapons
+and conſtraint:</hi> all our <hi>priviledges</hi> having beene firſt <hi>written,</hi>
+and in all ages forced to be <hi>copied out,</hi> in the <hi>peoples bloud;</hi> An
+argument ſufficient to prove, that little is to be expected
+from them, in favour of the <hi>Publique,</hi> but by conſtraint;
+<hi>Kings</hi> intending nothing more then the <hi>augmentation</hi> of their
+owne <hi>Arbitrary power:</hi> Therefore <hi>Flattery,</hi> rather then <hi>Truth,</hi>
+fonted them <hi>Fathers of their Country;</hi> to which they are in
+nothing ſutable, unleſſe in <hi>correction,</hi> the <hi>ſevereſt and leaſt ho<g ref="char:EOLhyphen"/>ſpitable
+part of Juſtice.</hi>
+            </p>
+            <p>They indeed, as <hi>domeſtique Fathers,</hi> are oftentimes ſuborn'd
+by a <hi>particular</hi> naturall <hi>love,</hi> to doe that which is deſtructive
+to the <hi>generall well being of a Nation;</hi> as where an <hi>equall affection</hi>
+to their children ſhall cauſe <hi>a diviſion of their Kingdome into ſe<g ref="char:EOLhyphen"/>verall
+Cantons;</hi> by which the <hi>whole</hi> is weakned in regard of
+the expence of more <hi>Courts,</hi> and expos'd to ruine by divi<g ref="char:EOLhyphen"/>ſion;
+as is not without a precedent in Story.</p>
+            <p>Next the affection they beare to their <hi>female iſſue,</hi> makes
+them raiſe great taxes to <hi>marry</hi> them, not onely ſutable to
+their birth, but unlimited ambition: By which meanes a
+people are often made ſubject to the curſe of a <hi>forrain Juriſ<g ref="char:EOLhyphen"/>diction:</hi>
+And in caſe it ſhould happen to light upon <hi>France</hi>
+or <hi>Spaine,</hi> or any <hi>Prince</hi> elſe unwilling to remove his <hi>Throne
+<pb n="18" facs="tcp:115311:13"/>
+further from the Sun,</hi> they muſt run the fortune of <hi>Naples, Si<g ref="char:EOLhyphen"/>cily,
+Millan, Navarre, &amp;c.</hi> who are ſo <hi>miſerable</hi> as to be under
+the <hi>Regiment of unnaturall Strangers.</hi>
+            </p>
+            <p>And ſay they ſhould be ſo mad, as to follow their am<g ref="char:EOLhyphen"/>bitious
+humours, in queſt of honour, <hi>out of their owne territo<g ref="char:EOLhyphen"/>ries,</hi>
+as <hi>Francis</hi> and <hi>John</hi> of <hi>France</hi> did, they may like them,
+fall into <hi>captivity,</hi> and tie their <hi>Kingdomes</hi> to harder <hi>conditions,</hi>
+and a greater <hi>Ranſome,</hi> then all the particular benefits re<g ref="char:EOLhyphen"/>dounding
+from that <hi>government</hi> are able to compenſe; or
+all the <hi>inconveniencies</hi> objected to a <hi>Popular State,</hi> parallel;
+who are confeſs'd on all ſides to be <hi>reſponſible for their miſ<g ref="char:EOLhyphen"/>government,
+in parcell,</hi> as particular Members; or <hi>in groſſe,</hi> as
+the whole <hi>Councell,</hi> when diſſolved: Whereas the flattering
+<hi>Clergy</hi> and <hi>Courtiers,</hi> by perverting the <hi>Scriptures,</hi> have in a
+<hi>ſingle perſon</hi> ſituated <hi>Regality</hi> out of the reach of all <hi>queſtion;</hi>
+ſo as he may ſhake or kicke about the world without any
+feare of other danger, then what the Poets faine fell to
+<hi>Phaëton</hi> from <hi>Jupiter</hi> himſelfe: Which cannot but perſwade
+wiſe men to keepe it out, where it never was; and upon all
+advantages to explode it, where misfortune hath brought
+it in.</p>
+            <p>
+               <hi>Queene Elizabeth,</hi> though an excellent Prince, yet <hi>incroach'd
+upon</hi> the <hi>Engliſh Liberty,</hi> by <hi>denying</hi> them to enquire who
+ſhould be <hi>her Succeſſour;</hi> The unnaturalneſſe of this tyranny
+being hid from the eyes of the people (whoſe intereſt it was
+to know it) by the delicate and <hi>ſoft hand</hi> ſhe carried over
+them; defective in nothing, in their imagination, but that
+it was fraile earth, and ſo ſubject to mortality: which made
+the <hi>Commons</hi> winke at <hi>the commitment</hi> of <hi>Pigot</hi> and <hi>Wentworth;</hi>
+valuing the ſatisfaction of <hi>her mind,</hi> before the Members of
+their <hi>owne Body:</hi> Neither could they well have found wea<g ref="char:EOLhyphen"/>pons
+to have revenged this unparallel'd outrage, ſhe ſtand<g ref="char:EOLhyphen"/>ing
+ſo <hi>faire painted in her Subjects hearts:</hi> Therefore though
+they did well to <hi>paſſe by a fault they could not puniſh;</hi> yet the
+<hi>goodneſſe</hi> of her raigne cannot be ſaid to expiate the <hi>curſe</hi> ſhe
+brought in by this <hi>example,</hi> the unnaturalneſſe of the <hi>Scotch
+Line</hi> tooke advantage of: which I believe had never come
+<pb n="19" facs="tcp:115311:13"/>
+in (eſpecially without <hi>Caution</hi>) but that <hi>the feare of the Londo<g ref="char:EOLhyphen"/>ners</hi>
+(wanting time to ſecure their wealth) and the <hi>baſenes
+of the Nobility,</hi> tempted them to betray themſelves into the
+hands of thoſe, who were ever <hi>enemies to this Nation:</hi> Now
+if there was ſo little <hi>care</hi> found in a <hi>Queene,</hi> raiſed from a
+<hi>priſoner;</hi> and <hi>goodneſſe</hi> in a <hi>King</hi> taken from the <hi>barren moun<g ref="char:EOLhyphen"/>taines
+of Scotland;</hi> Who could expect more <hi>gratitude,</hi> then we
+have found in his <hi>Son,</hi> that to make good <hi>his Fathers Mono<g ref="char:EOLhyphen"/>polies</hi>
+and <hi>his own illegall taxes,</hi> covered the <hi>Kingdome</hi> with a
+Sea of blood?</p>
+            <p>It is impoſſible for a <hi>Popular Government</hi> to be ſo <hi>expenſive</hi>
+as theſe <hi>two laſt Kings,</hi> though with <hi>Ieroboam</hi> they ſhould <hi>ſell
+themſelves to work wickedneſſe;</hi> not having whereupon to be<g ref="char:EOLhyphen"/>ſtow
+it, without making ſo palpable a demonſtration of
+their Covetouſneſſe, as the people would ſoon take notice
+thereof, and redreſſe it by their <hi>change</hi> or <hi>ruine;</hi> which might
+be obtained at an <hi>eaſier rate then by a Warre;</hi> without which
+no <hi>Monarch,</hi> though never ſo bad, is able to be removed; who
+commonly hath a power to defend him proportional to
+his <hi>prodigality,</hi> and the <hi>Honours</hi> he throws about; by which
+thoſe <hi>multitudes</hi> who only <hi>hope,</hi> are as ſtrongly taken, as the
+<hi>few</hi> that <hi>enjoy benefit</hi> by him.</p>
+            <p>Now <hi>Princes</hi> though generally bad, doe yet admit of <hi>com<g ref="char:EOLhyphen"/>pariſons;</hi>
+as you may find the three <hi>Degrees</hi> in <hi>Elizabeth, Iames,</hi>
+and <hi>Charles.</hi> For though <hi>Queen Elizabeth</hi> incroached upon
+the liberty of particulars; She maintained Warre in <hi>France,</hi>
+the <hi>Low-Countries,</hi> with <hi>Spaine</hi> and <hi>Ireland;</hi> yet never had un<g ref="char:EOLhyphen"/>lawful
+tax, or <hi>more then two Subſidies</hi> at <hi>once;</hi> which put to the
+whole <hi>Revenue</hi> of the <hi>Crown</hi> (as I have heard) did not make
+700000<hi rend="sup">l</hi> 
+               <hi>per annum:</hi> yet ſhe kept a <hi>glorious Court,</hi> paid all
+<hi>debts,</hi> and was never known to <hi>breake her word</hi> with the <hi>Sub<g ref="char:EOLhyphen"/>ject.
+King Iames</hi> enters, who never paid <hi>Army,</hi> built <hi>Houſe,</hi>
+or was any way magnificently <hi>hoſpitable,</hi> yet ſcrued the <hi>Re<g ref="char:EOLhyphen"/>venue</hi>
+to a double proportion, ſold and gave away ineſtima<g ref="char:EOLhyphen"/>ble
+quantities of <hi>Woods</hi> and <hi>Lands,</hi> omitting nothing where<g ref="char:EOLhyphen"/>in
+he might <hi>poll</hi> his <hi>Subjects;</hi> Yet <hi>died in debt,</hi> and ſcandalous
+for his <hi>breach of Faith,</hi> beſides the incomparable repute loſt
+<pb n="20" facs="tcp:115311:14"/>
+to the <hi>Nation</hi> by the <hi>ſale of the Cautionary Townes</hi> to the Dutch.
+<hi>King Charles</hi> ſucceeds, who anſwers ths peoples love and
+vowes for his ſafe returne from <hi>Spaine,</hi> and aſſumption to
+the <hi>Throne,</hi> with a <hi>contempt of Parliaments,</hi> and augmentation
+of the <hi>Revenue (Ship-mony</hi> caſt in) to 1800000<hi rend="sup">l</hi> (yet never
+equal'd <hi>the magnificence of Queen Elizabeth,</hi> nor the <hi>liberality of
+King Iames</hi>) ſummes not be <hi>concealed</hi> by a more <hi>popular State;</hi>
+or if poſſible, eaſy to be <hi>retrived</hi> by <hi>ſqueezing the purloiners;</hi>
+whereas this <hi>vaſt Treaſure</hi> mouldred away in <hi>Maſques</hi> and o<g ref="char:EOLhyphen"/>ther
+effeminate <hi>vanities,</hi> no waies for the <hi>honour</hi> or <hi>ſafety</hi> of
+the State. Not to ſay more, whoſe buſineſſe is only to ſhew
+the <hi>bleſſings of a Free Regiment,</hi> not all the <hi>curſes</hi> attending the
+<hi>Government,</hi> or <hi>faults</hi> incident to the <hi>perſons</hi> of Kings; which
+are rendred by our <hi>Clergy</hi> incurable, as ſheltred under a <hi>Di<g ref="char:EOLhyphen"/>vine
+Right.</hi>
+            </p>
+            <p>But neither this <hi>fooliſh varniſh,</hi> daub'd on by flatterers; nor
+<hi>preſcription</hi> it ſelfe, back'd by an unqueſtion'd <hi>conſent</hi> of our
+<hi>Fathers,</hi> can be of ſtrength enough to diſpoſſeſſe a people of
+ſo inherent a <hi>property,</hi> as nature hath eſtated all Reaſonable
+creatures in; <hi>viz. The choiſe of the Lawes they intend to be gover<g ref="char:EOLhyphen"/>ned
+by:</hi> No more then a <hi>Parliament,</hi> which is virtually the
+whole People, can bind <hi>Poſterity</hi> longer then ſhall ſute with
+the <hi>will</hi> of the <hi>ſame power</hi> that did at firſt eſtabliſh it. And if
+the <hi>Parliament</hi> is oftentimes ſo <hi>cautious,</hi> as to make <hi>Lawes pro<g ref="char:EOLhyphen"/>bationary;</hi>
+Can any think it ſutable to the <hi>principles of Reaſon,</hi>
+that a <hi>King</hi> (obnoxious to the frailties of other mortals)
+ſhould be borne to <hi>a right above them;</hi> and left to an abſolute
+liberty; not only to <hi>doe</hi> what he pleaſe, but to <hi>cros</hi> any thing
+ſhall be offered from his <hi>Subjects,</hi> by the inſpiration of I
+know not what <hi>negative Power?</hi> I wonder men are ſo indiſ<g ref="char:EOLhyphen"/>creet
+to give that to a <hi>child, foole,</hi> or <hi>mad man,</hi> which they de<g ref="char:EOLhyphen"/>ny
+to a grave, wiſe, and experimented <hi>Pope;</hi> whom they call
+<hi>Antichriſt</hi> for nothing more juſtly, then the arrogance he
+ſhewes in advancing his <hi>ſingle judgement</hi> above <hi>a Counſel.</hi> And
+if things be rightly conſidered, you ſhall find them both
+hang upon the ſame irrationall ſtring, and likely to drop
+into the ſame bottomles pit; the one vaunting to be <hi>Vicar
+<pb n="21" facs="tcp:115311:14"/>
+general</hi> for things <hi>temporall,</hi> the other for <hi>eternall.</hi>
+            </p>
+            <p>Yet if we look neer, we may find markes to demonſtrate
+it was <hi>not thus from the beginning,</hi> that <hi>Kings</hi> pretended to a
+<hi>Negative power;</hi> as appears by the <hi>modeſt words</hi> he uſeth at the
+<hi>croſſing of a Bill</hi> offered to him; which are <hi>Le Roy s'adviſera:</hi>
+Though time and neglect may have taken ſuch <hi>precedents</hi> of
+the <hi>file,</hi> as they have a number more, by which <hi>Kings</hi> were
+<hi>chalked</hi> a way to their <hi>duty;</hi> a thing by them ſo much abhor<g ref="char:EOLhyphen"/>red,
+that the <hi>Records in the Tower</hi> have ſuffered a continuall
+<hi>ſuppreſſion.</hi> Beſides it is notoriouſly known that this <hi>Negative
+Power</hi> ſo much inſiſted upon, and employed by the <hi>laſt King</hi>
+againſt the peace of the <hi>Nation;</hi> hath in all ages been ſubor<g ref="char:EOLhyphen"/>dinate
+to the will of a <hi>Wife</hi> or <hi>Favorite,</hi> who have not ſel<g ref="char:EOLhyphen"/>dome
+been found to give or ſell it to the prejudice of the
+<hi>Common-Wealth.</hi>
+            </p>
+            <p>Wherefore if the <hi>inconveniences</hi> of Kings aſſending with<g ref="char:EOLhyphen"/>out
+any oppoſition be ſo inſufferable; what <hi>miſchiefe</hi> can eſ<g ref="char:EOLhyphen"/>cape
+the imagination, (if the ſenſe) of that people, who
+have all of them, according to <hi>Regal Law,</hi> forfeited as <hi>Trai<g ref="char:EOLhyphen"/>tors,</hi>
+all that is <hi>deare to nature;</hi> either for <hi>oppoſing,</hi> or want
+of <hi>aſſiſting</hi> the <hi>dead King;</hi> ſhould any of his <hi>Line</hi> ſucceed?
+which formerly ſo <hi>ſhackled</hi> us, but is now <hi>unravelled</hi> by the
+<hi>ſame meanes</hi> it was <hi>twisted,</hi> by <hi>William,</hi> ſtil'd, though unjuſtly,
+<hi>the Conquerour.</hi>
+            </p>
+            <p>As for places of <hi>Scripture</hi> alleadged in favour of <hi>wicked
+Princes,</hi> by which their <hi>Paraſites</hi> endeavour to remove them
+out of the way of <hi>Queſtion;</hi> They will upon examination
+<hi>rather</hi> prove <hi>ſuborn'd, then competent witneſſes;</hi> as taught to ſpeak
+by <hi>intreſſed Divines,</hi> whoſe <hi>power</hi> and <hi>eſtates</hi> were wholly <hi>de<g ref="char:EOLhyphen"/>pendant</hi>
+on the <hi>Crown.</hi>
+            </p>
+            <p>The <hi>extent of the Juriſdiction</hi> of our <hi>Monarchs,</hi> held no pro<g ref="char:EOLhyphen"/>portion
+with <hi>that</hi> of <hi>Iſrael,</hi> confeſſed by <hi>God,</hi> to be <hi>founded in
+his wrath;</hi> who uſed at firſt to allot them out of <hi>his own
+choice;</hi> which rendred it, if not <hi>preſumption,</hi> yet <hi>uſeles</hi> to limit
+them by Lawes: But after this <hi>prepared Manna of juſt Govern<g ref="char:EOLhyphen"/>ment</hi>
+ceaſed to drop upon them from <hi>Heaven;</hi> They had
+reaſon to provide wholſome <hi>Ordinances</hi> of their own, to pre<g ref="char:EOLhyphen"/>ſerve
+<pb n="22" facs="tcp:115311:15"/>
+them from corruption; As we find the <hi>ten Revolted
+Tribes</hi> did, by the <hi>proceſſe againſt Naboth;</hi> whereas <hi>Solomon</hi> gave
+no other reaſon for the death of men, then <hi>his will,</hi> by which
+alone <hi>Ioab</hi> and his <hi>own brother</hi> were tried and condemned.
+And if want of wiſdome, haſt, or lack of experience, made
+the people forget their own conveniency, in the large ex<g ref="char:EOLhyphen"/>tent
+of power they afforded them; I know no place of
+<hi>Scripture</hi> binds us to follow their <hi>indiſcretion;</hi> No more then
+it warrants our Kings to imitate the <hi>vices</hi> of theirs. And af<g ref="char:EOLhyphen"/>ter
+<hi>Solomon</hi> I doe not find any <hi>bad Prince</hi> longer endured
+then the people were conſtrained out of <hi>meer neceſſity;</hi> To
+whoſe <hi>diſtruction</hi> alſo they were oftentimes <hi>incited by God</hi>
+himſelfe; whoſe <hi>ſilence</hi> now cannot in reaſon be taken for
+his <hi>conſent,</hi> becauſe he hath long ſince forborne <hi>to ſpeake</hi> unto
+us otherwaies then by <hi>written examples,</hi> which afford <hi>plenty</hi> of
+them <hi>Depoſed</hi> and put to Death.</p>
+            <p>The mercinary <hi>Lawyers,</hi> to keepe Kings ſafe <hi>behind the
+curtaine</hi> (where they <hi>play</hi> at <hi>boh-peepe</hi> with <hi>juſtice,</hi> as their ho<g ref="char:EOLhyphen"/>ly
+Father the <hi>Pope,</hi> doth by <hi>Religion</hi>) make the King a <hi>party</hi>
+in caſes touching <hi>Life;</hi> By this meanes ſhrowding his <hi>Per<g ref="char:EOLhyphen"/>ſon</hi>
+ſo ſecurely under his <hi>Office,</hi> as nothing could reſcue the
+people from tyranny, but <hi>a through Reformation of the Common
+Law.</hi>
+            </p>
+            <p>For in the condition we ſtood, <hi>Magna Charta,</hi> and all o<g ref="char:EOLhyphen"/>ther
+<hi>Lawes</hi> extorted from our Kings in favour of the peo<g ref="char:EOLhyphen"/>ple,
+are rendred <hi>invalid,</hi> if <hi>Kings</hi> were <hi>reſponſible</hi> for no <hi>miſ<g ref="char:EOLhyphen"/>demeanors;</hi>
+It being the <hi>Lawyers</hi> poſition in all caſes <hi>That the
+King can doe no wrong.</hi> Though it is apparent, that no <hi>miſ<g ref="char:EOLhyphen"/>chiefe</hi>
+fell to us, but from his <hi>unlimited</hi> and uſurped <hi>power:</hi>
+Since therefore ſo many years <hi>experience</hi> proclaimes it a
+thing impoſſible, to <hi>manacle</hi> a Supremacy in <hi>one</hi> ſingle indivi<g ref="char:EOLhyphen"/>dual;
+it cannot but be moſt ſafe, to <hi>divide</hi> it amongſt <hi>more:
+Many</hi> not being ſo apt, as <hi>one,</hi> to be intoxicated by the
+fumes of power and flattery.</p>
+            <p>The <hi>childiſh Love</hi> the Common people beare the <hi>gaudy per<g ref="char:EOLhyphen"/>ſon
+of a King,</hi> gives occaſion to beleeve, that <hi>popular Gover<g ref="char:EOLhyphen"/>ments</hi>
+are rather <hi>reſults of Princes diſorders,</hi> then the naturall
+<pb n="23" facs="tcp:115311:15"/>
+               <hi>effects of the peoples inclinations;</hi> and therefore <hi>founded</hi> with the
+more <hi>difficulty;</hi> But after eſtabliſhment <hi>eaſieſt maintained;</hi> wiſe
+men being apter to connive at a <hi>fault</hi> in this Goverment,
+out of hope to have one day the happineſſe to <hi>mend,</hi> or <hi>com<g ref="char:EOLhyphen"/>mit</hi>
+it themſelves.</p>
+            <p>The <hi>firſt Monarchies</hi> were purely tyrannicall as <hi>Babylon</hi>
+and <hi>Perſia,</hi> who uſed to try both <hi>Plaintif</hi> and <hi>Defendant</hi> in a
+<hi>Starchamber of Beaſts:</hi> Yet, though abſolute <hi>tyrants</hi> over their
+people, ſo much <hi>enſlaved</hi> to their own paſſions; as what was
+uttered againſt the life of the <hi>Prophet</hi> in <hi>folly,</hi> was not after
+repealable in <hi>judgement.</hi> And under theſe <hi>arbitrary</hi> Monſters
+the world laboured, till <hi>neceſsity, the pregnant Mother of all con<g ref="char:EOLhyphen"/>veniency,</hi>
+taught their <hi>Subjects</hi> to temper them with <hi>Lawes.</hi>
+But ſinding <hi>abſotute Princes</hi> of ſo <hi>faithleſſe</hi> a nature, that they
+were <hi>not tenable by compact:</hi> delighting like the <hi>Demoniaques</hi>
+in the Goſpell, to rome in the <hi>estates</hi> and among the <hi>graves</hi>
+of their Subjects; <hi>ſome Nations exploded them quite;</hi> as formerly
+<hi>ſeverall Citties</hi> of <hi>Greece</hi> and <hi>Rome</hi> &amp;c. and of later years the
+<hi>united Provinces,</hi> who having obtained their liberty, and ſo
+not being exhauſted by the exorbitant and vaſt expences of
+a <hi>King,</hi> nor ſhackled by the diſtracted and contrary inte<g ref="char:EOLhyphen"/>reſts
+of a fooliſh and <hi>ſuborn'd Counſel;</hi> were able from their in<g ref="char:EOLhyphen"/>fancy
+to <hi>teare ſuch morſells</hi> out of the throat of his great <hi>Ca<g ref="char:EOLhyphen"/>tholick
+Majeſty;</hi> as the <hi>weakeneſſe</hi> of France ſuffered him to
+<hi>ſwallow;</hi> and the <hi>feares</hi> of King James cauſed him to <hi>ſell,</hi> to
+prevent the danger, he was perſwaded by <hi>his jealouſies,</hi> and
+ſome of his <hi>Counſellors</hi> (more ſervants unto that State then
+to him) wayted upon the <hi>delivery</hi> or <hi>deniall</hi> of the <hi>Cautiona<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y
+townes</hi> to the King of Spaine; which this <hi>poore ſpot of Earth</hi>
+doth not only dare to owne, as their birthright; But have
+brought him to that paſſe, as he hath twice concluded <hi>peace</hi>
+with them, under the free notions of an <hi>Independant
+State.</hi>
+            </p>
+            <p>And <hi>ſome Nations never</hi> at all <hi>admitted any Kings;</hi> and ſuch
+as are celebrated for moſt <hi>wiſdome, felicity,</hi> and <hi>continuance;</hi>
+Apparent in the <hi>State of Venice,</hi> who hath <hi>outliv'd</hi> the ſtory of
+her own <hi>birth,</hi> and ſeen the often repeated funeralls of all
+<pb n="24" facs="tcp:115311:16"/>
+the <hi>Kingdomes</hi> in <hi>Europe;</hi> being now by her account, onward
+of her <hi>twelfth Century:</hi> And though <hi>France</hi> ſeems to boaſt of
+<hi>little leſſe continuance,</hi> deriving her originall from the uncer<g ref="char:EOLhyphen"/>tain
+hiſtory of <hi>Pharamond,</hi> ſuppoſed her firſt King: Yet the
+impartial reader may find her ſubject to the diſcipline of
+<hi>ſtrangers,</hi> and her own <hi>inferior Princes,</hi> till <hi>Lewis the eleaventh's</hi>
+wiſdome had <hi>compounded</hi> for her <hi>wardſhip:</hi> and if <hi>Edward the
+fourth</hi> his contemporary had been owner of ſo much pru<g ref="char:EOLhyphen"/>dence,
+as the <hi>Free Cantons of the Swiſſe;</hi> he had mis'd of his
+marke.</p>
+            <p>
+               <hi>Fulnes of bread,</hi> that inclines a people to <hi>Idolatry,</hi> makes
+them ſo proud and wanton, as to think <hi>any of their own body
+too mean to Governe;</hi> chooſing rather, with the <hi>Froggs</hi> in the
+Fable, a <hi>Storke</hi> for their <hi>King,</hi> though it be his nature to <hi>de<g ref="char:EOLhyphen"/>voure</hi>
+them, then a ſelected number of their own, tied in rea<g ref="char:EOLhyphen"/>ſon
+to <hi>preſerve</hi> them. Not perceiving that <hi>Monarchy</hi> is a ſa<g ref="char:EOLhyphen"/>crilegious
+<hi>overcharging a ſingle perſon</hi> with more honour and
+power, then ſo fraile a creature is able to beare, without
+falling into the diſtempers of exceſſe: which renders <hi>indu<g ref="char:EOLhyphen"/>ſtrious
+Nations</hi> more capable of <hi>freedome,</hi> as neerer to a <hi>parity;</hi>
+then ſuch as time and luxury have <hi>overſtock'd with Nobility and
+Gentry;</hi> who ſcorning to be ſubject to thoſe of their <hi>own</hi> qua<g ref="char:EOLhyphen"/>lity,
+and not ſo well able to tyrannize over inferiours upon
+their own ſingle ſcore; cry up <hi>Princes,</hi> whoſe faults they co<g ref="char:EOLhyphen"/>ver
+with a <hi>falſe varniſh,</hi> made up of <hi>an imaginary Divine Right,</hi>
+gliſtering only in the eyes of fooles; wiſe men owning it
+as borrowed from the <hi>Eaſterne Idolaters;</hi> who were never
+better pleaſed then when they ſaw ſomething carried be<g ref="char:EOLhyphen"/>fore
+them gloriouſly adorned with the <hi>eare-rings, jewels,</hi> and
+<hi>ſpoyles</hi> of the people. Which gives all <hi>Politians</hi> occaſion to
+to pronounce, that <hi>a Prince cannot diſparrage his affaires
+more, then by ſuffering his power to fall under a popular conteſt; Nor
+a Republick decline ſooner into a tyranny, then by continuing that ſha<g ref="char:EOLhyphen"/>dow
+which decency conſtraines Free Governments to retain of Monar<g ref="char:EOLhyphen"/>chy,
+too long in one Family</hi> (as the Dutch did) <hi>without change
+or ſome vigorous oppoſition.</hi> For however <hi>Inſurrections,</hi> like
+thunders are <hi>terrible</hi> for the preſent, They render <hi>Liberty more
+<pb n="25" facs="tcp:115311:16"/>
+ſerene</hi> and cleere: Princes being apt, with <hi>Alexander,</hi> to ap<g ref="char:EOLhyphen"/>prehend
+themſelves <hi>more then humane,</hi> unles they be now and
+then <hi>beſprinkled with their own blood; Affliction</hi> and <hi>oppoſition</hi> be<g ref="char:EOLhyphen"/>ing
+better able to put them into the way of <hi>duty,</hi> then <hi>flat<g ref="char:EOLhyphen"/>tery</hi>
+or <hi>proſperity;</hi> ſo as if <hi>Feare</hi> were not more prevalent with
+them, then <hi>Love,</hi> Subjects would be farre more miſerable:
+ſince it is without queſtion, that <hi>the intereſt of Princes lookes
+with a contrary aſpect to that of the People; His gaine</hi> being for the
+moſt part <hi>their loſſe,</hi> as in caſe of <hi>illegall taxes,</hi> which if once
+carried cleer without queſtion, are conveyed as an <hi>inheri<g ref="char:EOLhyphen"/>tance</hi>
+to their poſterity; who <hi>improve,</hi> rather then <hi>diminiſh</hi> a<g ref="char:EOLhyphen"/>ny
+thing layed in charge by their <hi>Predeceſſours:</hi> Therefore
+<hi>Governours out of their own body,</hi> in reaſon ſhould be <hi>more natu<g ref="char:EOLhyphen"/>rall,</hi>
+then theſe <hi>fathers in Law,</hi> who ſee nothing about them
+but what they falſely imagine to be their own.</p>
+            <p>Now though a <hi>Senate</hi> may have incluſively the <hi>ſame power,</hi>
+they are more tender of uſing it; for feare the evill conſe<g ref="char:EOLhyphen"/>quence
+ſhould reach their <hi>Children,</hi> who in theſe <hi>impartiall
+Governments</hi> mingle among the people, and participate of all
+their <hi>inconveniencies;</hi> unles <hi>wiſdome</hi> and <hi>good parts</hi> makes them
+capable of their <hi>Fathers dignities;</hi> which happens rarely; <hi>A<g ref="char:EOLhyphen"/>ble
+Stateſmen finding their virtues commonly wanting in their Chil<g ref="char:EOLhyphen"/>dren:</hi>
+And this diſcovers another groſſe inconvenience in
+<hi>ſucceſſive Kingdoms,</hi> where not only <hi>Law</hi> and <hi>Cuſtome,</hi> but <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi>
+if you truſt Regall divinity, teacheth the people to
+cry Hoſanna to the <hi>next Heyre;</hi> Though nature, or which is
+worſe, his wicked inclinations, render him unworthy the
+government of a Aſſe; Whereas a <hi>Senate</hi> is continually <hi>fill'd
+with</hi> the moſt <hi>able men.</hi>
+            </p>
+            <p>Not to looſe time in caſting up the account <hi>Antiquity</hi>
+made of this Government; upon whoſe approbation it is the
+nature of men to looke through the proſpective of <hi>multiply<g ref="char:EOLhyphen"/>ing
+opinion,</hi> as they doe upon leſſe remote verities with the
+eies of <hi>envy</hi> and <hi>contradiction;</hi> The progreſſe and vertues of
+the <hi>State of Venice</hi> are patterns not found in the greateſt, or
+match'd by the beſt of <hi>Kings:</hi> Who hath received nothing
+(her <hi>ſituation</hi> only excepted) but from <hi>the benevolence of Hea<g ref="char:EOLhyphen"/>ven
+<pb n="26" facs="tcp:115311:17"/>
+and her own vertue;</hi> which hath inabled <hi>her</hi> (though but
+a <hi>Pamphlet</hi> in compariſon of the <hi>Voluminous power</hi> of other
+<hi>Nations</hi>) to beare the oppoſition of all her <hi>Neighbours</hi> in their
+<hi>turnes,</hi> and ſometimes <hi>united</hi> by the malice of his <hi>Holines;</hi>
+Though armed with no more naturall weapons, then what
+her <hi>mony</hi> puts into the hands of <hi>ſtrangers; (the moſt unhappy
+Militia a State can imploy;</hi>) Yet becauſe all her <hi>Senatours look
+one way,</hi> and not a ſquint upon <hi>Forreign Intereſts,</hi> as the <hi>Pri<g ref="char:EOLhyphen"/>vadoes</hi>
+of our <hi>Kings</hi> have beene knowne to doe, in relation
+to their reſpective <hi>Penſions;</hi> Unity improves their ſmall
+force to ſo much advantage, as they have for theſe latter
+yeares, not onely diſputed the <hi>dominion of the Seas</hi> with
+the <hi>Grand Seigniour,</hi> but forced him to waſh away with his
+peoples bloud, divers markes of advantage his <hi>multitudes
+of Souldiers</hi> had purchaſed him in the <hi>Levant:</hi> So as if
+<hi>Monarchs</hi> were owners of ſo much <hi>Chriſtianity,</hi> as to ſpend
+but the <hi>tith</hi> of what is conſum'd yearly in <hi>Maſques,</hi> and
+ſuch unneceſſary vanities, <hi>this way</hi> (a thing not to be
+hoped for, till our good God have diſcovered to all <hi>Na<g ref="char:EOLhyphen"/>tions,</hi>
+the <hi>curſe of monopolized authority</hi>) this <hi>enemy to Chriſt</hi>
+might be eaſily reduced; Since all the force he can
+make, returnes him, from <hi>this ſingle State,</hi> nothing but
+diſhonour and loſſe; whereas <hi>the greateſt German Caeſar</hi>
+was never yet able to beare the leaſt branch of his power,
+without imploring and receiving aide from moſt of <hi>Chriſti<g ref="char:EOLhyphen"/>an
+Princes,</hi> who are now ſo <hi>weltered</hi> in their own <hi>blood,</hi> as
+they omit the opportunity; Thinking themſelves more
+<hi>charitably imployed</hi> in the ruine of their <hi>own people,</hi> or
+<hi>Neighbours;</hi> A <hi>Lunacy</hi> could never befall them, were
+they not agitated by ſuch <hi>ridiculous humours,</hi> as <hi>Com<g ref="char:EOLhyphen"/>mon-wealths
+diſdaine to be affected withall;</hi> where there is
+no roome for any diſputation about ſuch <hi>triviall things</hi>
+as <hi>crabbid Titles, Legitimacy</hi> &amp;c. all being ejected there as
+<hi>ſpurious</hi> that conduce not to <hi>honour</hi> or <hi>ſafety.</hi> And what <hi>ad<g ref="char:EOLhyphen"/>vantage</hi>
+this State hath in the <hi>wiſe Conduct of affaires,</hi> may be
+eaſily diſcerned by any eye, that ſhall paſſe over the <hi>Tranſ<g ref="char:EOLhyphen"/>actions
+<pb n="27" facs="tcp:115311:17"/>
+of this Senate and Paul the fift,</hi> during the Interdict; and
+compare them with <hi>the Treaties of our King James with Spaine:</hi>
+the firſt redounding no leſſe to the honour of <hi>that Re<g ref="char:EOLhyphen"/>publique,</hi>
+then the latter to the ſhame and loſſe of <hi>this Na<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>Neither are theſe advantages peculiar to <hi>Venice</hi> onely, but
+to all found under this <hi>Government;</hi> which officiating in the
+<hi>double capacities of a King and a Councell both,</hi> cannot chooſe but
+be <hi>wiſer</hi> then <hi>the firſt,</hi> and <hi>leſſe ſubject to corruption</hi> then <hi>the latter;</hi>
+it being as <hi>unnaturall</hi> for them <hi>to betray their owne power,</hi> as it is
+uſuall with the <hi>greateſt Courtiers</hi> to <hi>ſell the revelation of their Ma<g ref="char:EOLhyphen"/>ſters
+moſt ſecret Counſels.</hi>
+            </p>
+            <p>Though <hi>Offenders</hi> under Free States are <hi>puniſhed with the
+greateſt ſeverity,</hi> it is with the <hi>leaſt injuſtice and partiality: Single
+perſons</hi> being more ſubject to be agitated by the tempeſts of
+<hi>Fury, Prejudice</hi> or <hi>Revenge,</hi> then <hi>Popular Tribunals,</hi> which in all
+reaſon are not capable of <hi>ſo totall a diſtemper,</hi> as to utter ſuch
+<hi>intoxicated Cenſures,</hi> as ordinarily drop from <hi>ſingle judgements;</hi>
+who rather then confeſſe a miſtake, will, with the
+Tyrant in <hi>Seneca, make three guilty, becauſe they find one inno<g ref="char:EOLhyphen"/>cent.</hi>
+            </p>
+            <p>Neither doth <hi>Covetouſneſſe,</hi> the root of all evill, proſper ſo
+well, or ſpread ſo much in the hearts of <hi>Senaters,</hi> as in thoſe
+of <hi>Kings;</hi> leſt their <hi>Poſterity</hi> ſhould be forced to <hi>diſgorge</hi> what
+<hi>they</hi> had <hi>devoured;</hi> Too <hi>vaſt eſtates</hi> being ſo <hi>formidable to this
+Government,</hi> as they cannot be paſs'd by without <hi>obſervation,</hi>
+and <hi>jealouſie,</hi> by ſuch as know <hi>the cauſe of the reduction of the
+State of</hi> Florence <hi>under the Houſe of</hi> Medici: But <hi>Kings</hi> are
+ſuch <hi>bottomleſſe pits,</hi> that they proclaime themſelves <hi>reſponſible
+to none but God,</hi> for all their rapines and injuſtice: By which
+they doe not onely <hi>adjourne</hi> all <hi>reparation</hi> to the <hi>day of Doome,</hi>
+but leave their <hi>oppreſſions</hi> for lawfull <hi>inheritances</hi> to their <hi>ſuc<g ref="char:EOLhyphen"/>ceſſours;</hi>
+As the <hi>Monopoly</hi> Queene <hi>Elizabeth</hi> granted upon
+<hi>Glaſſes,</hi> was improved ſince to very <hi>Raggs</hi> and <hi>Marrow<g ref="char:EOLhyphen"/>bones.</hi>
+            </p>
+            <p>All a <hi>Senate</hi> can juſtly be charged with by way of diſ<g ref="char:EOLhyphen"/>advantage,
+<pb n="28" facs="tcp:115311:18"/>
+after perfectly founded, is <hi>diviſion;</hi> which if
+pure from <hi>popular ambition,</hi> may poſſibly occaſion <hi>more good then
+hurt,</hi> by keeping them upright; <hi>One Faction</hi> remaining as <hi>a
+guard</hi> upon <hi>the reſt:</hi> Their owne <hi>ſafety</hi> perſwading all <hi>Cor<g ref="char:EOLhyphen"/>porations</hi>
+to intend the <hi>generall welfare,</hi> in which Reaſon gives
+the right hand of advantage to the <hi>Government</hi> by a <hi>Senate,</hi>
+rather then <hi>that</hi> of a <hi>King;</hi> whoſe beſt <hi>deſignes</hi> are <hi>retarded,</hi>
+if not <hi>buried</hi> with his <hi>perſon;</hi> whereas <hi>this Juriſdiction</hi> is <hi>never
+ſick,</hi> much leſſe ſubject to <hi>drink</hi> or <hi>death;</hi> but <hi>reacheth,</hi> through
+a continuall ſuppliment, to as immenſe an <hi>eternity,</hi> as Provi<g ref="char:EOLhyphen"/>dence
+hath afforded any humane Society; not being apt to
+be <hi>ſcared</hi> out of the paths leading to their advantage; con<g ref="char:EOLhyphen"/>ſiſting
+of too great a number to be ſubject to any <hi>clandeſtine
+attempt,</hi> or abuſed by <hi>evill Counſels,</hi> or corrupted by <hi>rewards;</hi>
+whereas experience teacheth, that <hi>Kings</hi> may be forced
+through <hi>feare,</hi> or allured by <hi>flattery,</hi> to reſigne their reaſon,
+and concede things not onely contrary to <hi>their peoples,</hi> but
+<hi>their owne intereſt:</hi> as appeared by that celebrated Prince
+<hi>Henry the Fourth</hi> of <hi>France,</hi> who was not aſhamed to confeſſe,
+he <hi>durſt not for feare of his owne life, but revoke the juſt Ban, he and
+all the Parliaments of</hi> France <hi>had pronounced againſt the bloudy Je<g ref="char:EOLhyphen"/>ſuits;</hi>
+whoſe expulſion the <hi>Venetians</hi> make good againſt all
+<hi>their</hi> machinations, threats of the <hi>Pope,</hi> and mediation of
+<hi>Princes.</hi> From whence I may obſerve, That though experi<g ref="char:EOLhyphen"/>ence
+proves by <hi>this State,</hi> and the <hi>Catholique Cantons, &amp;c.</hi> that
+the <hi>Roman profeſſion</hi> may ſute, in ſome meaſure, with <hi>all kinds
+of Government,</hi> yet undeniable <hi>Reaſon of State</hi> renders <hi>Monarchy
+moſt acceptable to the Pope,</hi> as it doth <hi>the Reformation to Free States;</hi>
+who are too wiſe to admit willingly a <hi>Forraigne intereſt</hi> into
+the <hi>Common-wealth,</hi> by a <hi>multiplicity of Eccleſiaſticks,</hi> independent
+on any other power but that of <hi>Rome;</hi> which <hi>Kings,</hi> being
+but <hi>ſingle perſons,</hi> dare not reſiſt, for feare of the <hi>Knife;</hi> it be<g ref="char:EOLhyphen"/>ing
+beſides a maine diſadvantage, in worldly policy, to pro<g ref="char:EOLhyphen"/>feſſe
+a <hi>Religion</hi> ſo <hi>odious</hi> to their <hi>neighbours,</hi> that they are look<g ref="char:EOLhyphen"/>ed
+upon under no better notion, then <hi>Heretickes;</hi> and ſo <hi>no
+faith to be kept with them,</hi> nor <hi>marriage</hi> contracted, but by an
+eſpeciall <hi>Indulgence</hi> from his <hi>Holineſſe,</hi> which <hi>Republickes</hi> have
+<pb n="29" facs="tcp:115311:18"/>
+no uſe of; And being already under the <hi>ill opinion</hi> of the
+Roman Church, doe but deſire a <hi>faire opportunity</hi> to free them<g ref="char:EOLhyphen"/>ſelves
+from it, and make <hi>booty</hi> of the <hi>Religious Houſes,</hi> long
+ſince looked upon by them, as <hi>dens of Traiters and idle perſons.</hi>
+Therefore ſuch as deſire a <hi>through Reformation,</hi> diſpleaſe their
+ends by abetting <hi>Monarchy: Kings</hi> being knowne not onely
+to have beene the <hi>Begetters</hi> and <hi>Nources,</hi> but the onely <hi>Main<g ref="char:EOLhyphen"/>tainers</hi>
+of <hi>Antichriſt,</hi> if the <hi>POPE</hi> be the man. And if any,
+in oppoſition to this truth, object <hi>Queene Elizabeth</hi> (her Bro<g ref="char:EOLhyphen"/>ther
+<hi>Edward's</hi> Youth and ſhort raigne rendring his inclina<g ref="char:EOLhyphen"/>tions
+abortive to the benefit of the Nation); I anſwer, who<g ref="char:EOLhyphen"/>ſoever
+conſiders how reſolutely the <hi>Pope</hi> denied to reverſe
+<hi>her Illegitimation,</hi> refuſing to give a decent reception to her
+<hi>Embaſſadours;</hi> And with what affection the <hi>Parliament</hi> (out
+of pure zeale, hatred to the <hi>Clergy,</hi> or feare of refunding the
+profits made of <hi>Abby Lands;</hi>) did offer to <hi>cover her blemiſhes
+with the Crowne;</hi> muſt conclude, there could be no better
+refuge for her in prudence, then to ſide with ſuch, as did
+maintaine <hi>the Church of Rome</hi> it ſelfe to be <hi>Baſterdized.</hi> And
+for the <hi>dangers</hi> probability might threaten to ſuch a <hi>totall de<g ref="char:EOLhyphen"/>fection,</hi>
+all being avoided by her <hi>tyrannicall Father,</hi> her <hi>Councell</hi>
+(in <hi>whom ſhe was the happieſt</hi> ever waved the Engliſh Scepter)
+thought a <hi>diſpencing</hi> with them leſſe prejudiciall to her af<g ref="char:EOLhyphen"/>faires,
+then the tedious <hi>ceremonies</hi> incident to a <hi>Reconciliation
+with Rome.</hi> Neither was <hi>the progreſſe the Proteſtants made in</hi> Ger<g ref="char:EOLhyphen"/>many,
+France <hi>and</hi> Switſerland, a ſmall provocation; who
+by letters inſtigated her to this reſolution; (the hopes of the
+<hi>Councell of Trent</hi> not being quite loſt,) becauſe they found a
+<hi>generall deſire in all Princes to ſee the power of</hi> Rome <hi>modera<g ref="char:EOLhyphen"/>ted.</hi>
+            </p>
+            <p>And that ſhe was <hi>rather throwne</hi> by neceſſity, <hi>then fell</hi> of her
+owne accord, <hi>from the Church of Rome,</hi> appeares by the <hi>Cere<g ref="char:EOLhyphen"/>monies</hi>
+uſed at her <hi>Inauguration,</hi> all purely <hi>Catholique;</hi> ſo as
+though ſhe was not unwilling to give the <hi>new Profeſſion</hi> hope,
+ſhe could not be brought ſuddenly to put the <hi>old</hi> in deſpair;
+not indeavouring to bring in a greater <hi>Reformation</hi> then ſhe
+found, but ſuffered the <hi>Biſhops</hi> to beſprinkle her <hi>Raigne</hi> with
+<pb n="30" facs="tcp:115311:19"/>
+the bloud of ſome, and inrich her <hi>Exchequer</hi> with the live<g ref="char:EOLhyphen"/>lyhoods
+of many more, that were ſo zealous as to deſire <hi>a
+review of ſuch errours,</hi> as they preſumed <hi>the baſe ends of Henry the
+Eighth</hi> had let ſlip: And <hi>theſe</hi> were then perſecuted (though
+of moſt exemplary lives) <hi>whoſe followers</hi> God hath in our
+daies beene pleaſed to requite with the moſt <hi>miraculous ſuc<g ref="char:EOLhyphen"/>ceſſe</hi>
+that ever crowned the endeavours of an <hi>Army.</hi> And for
+a farther confirmation, that <hi>this totall ſeparation from the Pope,
+grew rather in the minds of the people, then the Prince;</hi> All the en<g ref="char:EOLhyphen"/>deavours
+they could uſe, were not able to abrogate the ce<g ref="char:EOLhyphen"/>remonies
+of <hi>Croſſe, Ring</hi> and <hi>Surpleece;</hi> though confeſs'd by
+all, of <hi>no</hi> more abſolute <hi>neceſſity,</hi> then what they derived
+from the breath of <hi>Authority:</hi> But their true <hi>end</hi> was, to diſ<g ref="char:EOLhyphen"/>cover
+ſuch <hi>conſciences</hi> as were <hi>irreconcilable to Rome,</hi> unto which
+they had then, and doe ſtill drive on <hi>a deſigne of returning;</hi>
+Provided they could, by an univerſall <hi>conjunction of Princes,</hi>
+bring the <hi>Pope</hi> to renounce the <hi>power</hi> he pretends to have over
+<hi>Kings,</hi> in that which is meerly <hi>temporall:</hi> And if I am not
+fouly miſtaken, the too vigorous proſecution of this pro<g ref="char:EOLhyphen"/>ject,
+was the cauſe of the murdering the two laſt <hi>Henryes</hi> of
+<hi>France.</hi> Therefore ſuch as hinder the <hi>eſtabliſhing a Free State,</hi>
+oppoſe the moſt probable way of ſuppreſſing <hi>Superſtition,</hi> and
+diſcovering <hi>Truth;</hi> which in time will by the bleſſing of
+God, worke it ſelfe into <hi>
+                  <g ref="char:V">Ʋ</g>nity.</hi>
+            </p>
+            <p>I doe not write this out of an humour of <hi>ſingularity,</hi> or to
+caſt dirt upon the <hi>Memory of Queene Elizabeth,</hi> who in my opi<g ref="char:EOLhyphen"/>nion
+deſerves to be celebrated above all the <hi>Princes</hi> I ever
+heard of; but to manifeſt this truth, That <hi>Monarchs look upon
+all Religions with love or diſdaine, as they find them ſute with their
+worldly concernments.</hi> The like may be ſaid of moſt of the <hi>Prin<g ref="char:EOLhyphen"/>ces
+in Germany</hi> who tooke part with <hi>Luther,</hi> to have a pre<g ref="char:EOLhyphen"/>tence
+to <hi>ſeize upon the rich Monaſteries and Lands of the Church.</hi>
+(And though humane policy may inject <hi>the ſame thoughts into
+the minds of Senatours,</hi> yet <hi>purity of Religion</hi> is likelier to find
+friendſhip among <hi>many,</hi> then <hi>one.</hi>)</p>
+            <p>
+               <pb n="31" facs="tcp:115311:19"/>
+Neither is the ſmall countenance the <hi>French</hi> give to thoſe
+of the <hi>Reformation,</hi> under a ſhallower policy, then <hi>to balance
+all partiality,</hi> which, the <hi>Pope</hi> may be terrified, out of a dread
+of his power, to ſhew the <hi>King</hi> of <hi>Spaine,</hi> to the <hi>French King's</hi>
+diſadvantage; being allwayes <hi>able by their aſſiſtance, to make
+the like booty of the Gallican Church, as Henry the Eighth did of the
+Engliſh.</hi>
+            </p>
+            <p>Neither had <hi>the rich revenues of the Roman Profeſſion</hi> (which
+<hi>Chriſtian Princes</hi> have long ſince <hi>ſurveyed,</hi> as <hi>too great a patrimony
+for a few Prieſts</hi>) beene untaken in, but that the <hi>Catholique
+King</hi> is tied, not onely by a contrary, but a ſtronger intereſt,
+to keepe up the <hi>Pope</hi> from a <hi>totall ſuppreſſion:</hi> becauſe he hath
+nothing to ſhew for the <hi>poſſeſſion</hi> of divers of his territories,
+and the <hi>diſpenſation</hi> of ſo many <hi>inceſtuous Matches,</hi> but the
+power <hi>his Holineſſe</hi> arrogates <hi>to make any thing lawfull</hi> towards
+<hi>God</hi> or <hi>Man.</hi>
+            </p>
+            <p>Yet if any deſire farther ſatisfaction, <hi>Why Spaine remaines
+ſo true to the bondage of Rome,</hi> whilſt <hi>other Nations</hi> are in labour
+with <hi>diviſions?</hi> it may be ſaid, That beſides the <hi>Inquiſition,</hi>
+her naturall <hi>pride</hi> and affected <hi>gravity</hi> renders her <hi>proofe againſt
+Innovation;</hi> eſpecially in order to <hi>a Profeſſion leſſe ſplendid then
+her owne;</hi> being, like the <hi>Jewes, more delighted with well dreſt
+Ceremonies, then naked Truth:</hi> Neither have they any generall
+<hi>propenſity</hi> to the <hi>ſtudy of Controverſies,</hi> or the writing of any
+thing beſides <hi>Romances,</hi> to which the <hi>Roman Religion</hi> beſt
+ſutes, being repleniſhed with the high <hi>Rhodomontadoes of Saints</hi>
+and miraculous <hi>Stories.</hi>
+            </p>
+            <p>
+               <hi>A Monarchy</hi> both in <hi>Church</hi> and <hi>State</hi> is <hi>moſt ſutable to the En<g ref="char:EOLhyphen"/>gliſh
+Clergy,</hi> whoſe <hi>maintenance</hi> being raiſed out of the <hi>ſweat of
+the Labourer,</hi> can find none ſo ready (the <hi>Pope</hi> excluded) as
+<hi>Princes</hi> to protect them: <hi>Commonwealths</hi> making no ſuch
+roome for flattery, as <hi>Kings,</hi> to whom thoſe <hi>Churchmen</hi> are
+deareſt, and readieſt to be preferred by them; as having the
+faculty <hi>to diſcover Virtues where none are, and hide Vices where they
+moſt abound:</hi> to which qualities <hi>James</hi> and <hi>Charles</hi> were the
+indulgenteſt <hi>Princes,</hi> ſince the <hi>Reformation:</hi> For <hi>Queene Eliza<g ref="char:EOLhyphen"/>beth,</hi>
+ſtanding faire in her Subjects opinions, was bold to
+<pb n="32" facs="tcp:115311:20"/>
+make <hi>exchanges with them</hi> to their diſadvantage; The cauſe
+<hi>the ſweetneſſe of her Raigne</hi> is no more legible. This proves it
+madneſſe, to expect a pure <hi>Reformation</hi> under <hi>Kings;</hi> the <hi>Ro<g ref="char:EOLhyphen"/>man
+Religion</hi> being in all policy moſt neceſſary for them, be<g ref="char:EOLhyphen"/>cauſe
+they have his <hi>Holineſſe</hi> ready at any time, as an <hi>honoura<g ref="char:EOLhyphen"/>ble
+<g ref="char:V">Ʋ</g>mpire,</hi> friendly to cement them together by fair means;
+or in caſe they will not agree, to <hi>excommunicate</hi> the contu<g ref="char:EOLhyphen"/>macious
+party: No ſmall advantages to <hi>Kings,</hi> who parti<g ref="char:EOLhyphen"/>cipating
+of the ſame <hi>vindictive humours</hi> with other private
+mortals, fall upon moſt <hi>deſtructive wars,</hi> onely to revenge
+<hi>perſonall affronts:</hi> As the <hi>laſt quarrell</hi> we had with <hi>Spaine,</hi> roſe
+from no more ſerious a bottome, then a <hi>miſpriſion</hi> the <hi>Duke</hi>
+of <hi>Buckingham</hi> ſtumbled upon in his <hi>luſt.</hi> And <hi>the ſame Kings
+Expedition to the Iſle of Reez</hi> had as noiſome a ſource: which
+are things below a <hi>Senate,</hi> not apt to run a madding like un<g ref="char:EOLhyphen"/>adviſed
+<hi>Princes,</hi> who are diſtempered upon the leaſt <hi>bite of a
+paſſion.</hi>
+            </p>
+            <p>Adde to what hath beene ſaid, <hi>the vaſt ſummes</hi> correſpon<g ref="char:EOLhyphen"/>dent
+to the charge <hi>of a Court,</hi> and <hi>wanton affections</hi> incident to
+<hi>Kings; (James</hi> of <hi>England</hi> having throwne away upon <hi>Dun<g ref="char:EOLhyphen"/>barre,
+Carliſle, Sommerſet</hi> and <hi>Buckingham</hi> only, according to
+computation <hi>two millions</hi>) and you cannot but conclude a
+<hi>Free State the thriftieſt Government</hi> for the people; about whom
+no ſuch <hi>ſummes</hi> can be found, but <hi>under the hazard</hi> of a pre<g ref="char:EOLhyphen"/>ſent
+or future <hi>queſtion.</hi> Beſides, conſider the exceſſive ex<g ref="char:EOLhyphen"/>pence
+the <hi>Nation</hi> would be at, <hi>to repaire the utenſils of a Crowne,</hi>
+which the charge or fate of warre hath expoſed to ſale or
+ruine.</p>
+            <p>We ſee it is the fortune of moſt <hi>private Families</hi> (notwith<g ref="char:EOLhyphen"/>ſtanding
+their ſeverer education) <hi>to fall within two or three ge<g ref="char:EOLhyphen"/>nerations,
+under a foole,</hi> or which is worſe, <hi>one</hi> ſo <hi>infatuated with</hi>
+an immoderate <hi>thirſt of pleaſure,</hi> as to hazard the cutting off
+the ſtrongeſt <hi>Intaile:</hi> And can people be pronounced ſo <hi>happy,</hi>
+who have no more to ſhew for their felicity, but the crazied
+and uncertain <hi>life of a King,</hi> (rarely found to be indifferently
+good in the firſt, but ever intolerable in the ſecond or third
+<hi>Deſcent</hi>) as a <hi>Senate,</hi> which <hi>never dyes,</hi> but growes daily more
+<pb n="33" facs="tcp:115311:20"/>
+acquainted with the Conſtitution of the <hi>Nation;</hi> being
+taught by <hi>experience</hi> how to adminiſter to the peoples ne<g ref="char:EOLhyphen"/>ceſſities?</p>
+            <p>Whoſe <hi>children</hi> doe not remaine <hi>a burden</hi> and <hi>terrour</hi> to the
+<hi>Common-wealth,</hi> as thoſe of <hi>Monarchs:</hi> Which makes the <hi>Great
+Turke</hi> to ſtrangle them, like <hi>Vermin;</hi> and the <hi>Perſian</hi> to put
+out their eyes, leſt they ſhould bewitch their <hi>Kingdomes</hi> into
+ſeditions: as in the <hi>Annals</hi> of our <hi>Engliſh Monarchs</hi> is legible
+in <hi>red letters;</hi> though many deepe <hi>markes of bloud</hi> have beene
+<hi>expunged</hi> by their <hi>power,</hi> or <hi>covered</hi> by the <hi>flattery</hi> of ſuch as
+pen'd their <hi>Stories.</hi> And if we would ſeriouſly conſider it
+without prejudice, we might clearly foreſee, That <hi>no State
+is able</hi> (without ſtocking up the ancient <hi>Nobility</hi> and <hi>Gentry</hi>)
+<hi>to beare the</hi> true, much leſſe the borrowed <hi>iſſue of three Queenes
+in ſucceſſion ſo fruitfull as our laſt Mary:</hi> The pregnancy of whoſe
+<hi>head</hi> for miſchiefe hath not yet beene ſo fatall to this <hi>Nation,</hi>
+as her <hi>wombe</hi> may prove hereafter to <hi>Poſterity;</hi> that perhaps
+may be ignorant how <hi>few Kings come to the Crowne unſpotted
+with the bloud of their Predeceſſours;</hi> And that Nature is ſo farre
+<hi>buried</hi> in their <hi>jealouſies</hi> and <hi>feares,</hi> as oftentimes ſhe cannot be
+heard in behalfe of her owne <hi>Children;</hi> manifeſted in <hi>Philip</hi>
+the <hi>Second</hi> of <hi>Spain,</hi> who put his owne <hi>Son and Heire</hi> to death;
+A <hi>Tragedy</hi> ſince revived and acted by the <hi>ſame Kings Players,</hi>
+upon the perſon of <hi>Prince Henry</hi> in <hi>England,</hi> at the eſpeciall
+command, as was thought, of &amp;c—, becauſe he ſeemed
+<hi>averſe from a Match</hi> with the <hi>Infanta,</hi> for whoſe ſweet ſake <hi>his
+Brother</hi> undertooke that <hi>honourable journey into Spain;</hi> by which
+(not to reckon the vaſt <hi>expence</hi> and <hi>ſhame</hi> it brought) the per<g ref="char:EOLhyphen"/>petuall
+<hi>quiet of this Nation</hi> was in hazard. And till any can
+parallel <hi>this,</hi> with a <hi>like abſurdity</hi> committed by a <hi>Senate,</hi> they
+muſt excuſe all who thinke <hi>Monarchy not the wiſeſt or happieſt
+Government.</hi>
+            </p>
+            <p>Neither are the <hi>progeny of Kings</hi> leſſe <hi>unmindfull</hi> of their <hi>filiall
+duty;</hi> ſince it is notorious, that <hi>Lewis the</hi> XI<hi rend="sup">th</hi>, and <hi>Charles
+his Son,</hi> were found in the <hi>head of an Army</hi> againſt their <hi>Fa<g ref="char:EOLhyphen"/>thers,</hi>
+before <hi>diſcretion</hi> could ſecurely <hi>intruſt</hi> them with a <hi>Sword</hi>
+               <pb n="34" facs="tcp:115311:21"/>
+for feare of <hi>hurting themſelves:</hi> the <hi>eldeſt</hi> not having attained
+the age of <hi>twelve yeares.</hi>
+            </p>
+            <p>What <hi>Tragedies</hi> the <hi>Royall iſſue</hi> have <hi>acted in England,</hi> is well
+knowne: But in <hi>Scotland</hi> they have beene ſo <hi>frequent and diſ<g ref="char:EOLhyphen"/>mall,</hi>
+that <hi>their Crown</hi> ſeemes rather <hi>a ſnare</hi> to catch unadviſed
+fooles, then <hi>a Symbole of Honour;</hi> proving as <hi>fatall</hi> to moſt
+have worne it, as the <hi>Shirt of Hercules,</hi> the <hi>Drab</hi> had poy<g ref="char:EOLhyphen"/>ſoned.</p>
+            <p>Though a <hi>Senate</hi> may be tempted to <hi>ſeverity at firſt,</hi> out of
+<hi>care</hi> and <hi>love</hi> to the <hi>people</hi> and <hi>themſelves;</hi> The <hi>diſturbers of
+peace</hi> being <hi>ſubdued</hi> or <hi>reformed,</hi> it is as contrary to their na<g ref="char:EOLhyphen"/>tures
+and diſcretions to delight in bloud, as for a <hi>wiſe Phy<g ref="char:EOLhyphen"/>ſician
+to uſe Phlebotomy when the diſtemper is over.</hi> Whereas un<g ref="char:EOLhyphen"/>der
+a <hi>Monarchy,</hi> the <hi>Nation</hi> runs a hazard of <hi>blouding upon every
+change;</hi> being ready to fall into a <hi>Feaver</hi> by the <hi>contrary</hi> hu<g ref="char:EOLhyphen"/>mours
+and <hi>claimes</hi> of thoſe of the <hi>ſame line;</hi> who upon the
+leaſt <hi>nicety</hi> they are able to create, raiſe a <hi>civill</hi> and <hi>deſtructive
+warre;</hi> as betweene <hi>Lancaſter</hi> and <hi>Yorke,</hi> which laſted ſo long
+as the people, out of meere <hi>poverty</hi> and <hi>wearineſſe,</hi> were wil<g ref="char:EOLhyphen"/>ling
+to <hi>ſell</hi> themſelves for <hi>Slaves</hi> to the ſucceeding <hi>Pharaohs</hi>
+of the <hi>prevalent Line:</hi> And having found ſuch <hi>miſchiefes</hi> to
+reſult <hi>from contrary claimes,</hi> they, to perpetuate a <hi>ſingle Title,</hi>
+made <hi>the juſteſt endeavours to oppoſe it, Treaſon;</hi> and ſo entail'd
+<hi>a perpetuall inconvenience unto Poſterity,</hi> that fell into the <hi>clutches
+of the Law</hi> upon the <hi>leaſt offer</hi> they made to <hi>free</hi> themſelves
+from theſe <hi>arbitrary Taske-maſters,</hi> at whoſe devotion they
+have ever ſince <hi>eaten the bread of affliction and conſtraint,</hi> which
+they might have <hi>avoided,</hi> by <hi>changing the Government:</hi> But that,
+like <hi>Lucian,</hi> they lay under ſo ſtrong a <hi>faſcination,</hi> as they
+were in their abuſed judgements <hi>capable of no cure,</hi> but firſt <hi>by
+recovering a Conjunction between the Roſes,</hi> and then <hi>an union with
+Scotland.</hi> And though <hi>the vanity of this conceipt</hi> be made appa<g ref="char:EOLhyphen"/>rent
+by 40 <hi>yeares contrary experience;</hi> yet <hi>the generality</hi> cannot
+be wooed to aſſume their <hi>naturall ſhape of Free-men,</hi> but deſire
+rather to remain <hi>Aſſes</hi> ſtill under the <hi>heavy preſſures</hi> of a <hi>King;</hi>
+not conſidering, that <hi>the old Line</hi> is ſo <hi>exaſperated,</hi> That if any
+of it come to ſucceed, they cannot in Prudence or Safety,
+<pb n="35" facs="tcp:115311:21"/>
+but ſo <hi>buſh up all waies leading</hi> never ſo little <hi>towards liberty,</hi> as
+we may well <hi>groane,</hi> but ſhall <hi>not</hi> have ſo much as hope to be
+<hi>heard</hi> or <hi>redreſſed</hi> hereafter: When <hi>thoſe that ſtand for Kings</hi>
+ſhall receive as <hi>ſevere a doome</hi> as <hi>the reſt,</hi> out of feare, they
+may another time, be as well able and as willing to oppoſe
+as now <hi>to aſſiſt</hi> them.</p>
+            <p>After having weighed <hi>the deeds of the <g ref="char:V">Ʋ</g>nited Provinces, and
+Venice;</hi> Conſider what <hi>deſpicable Nations</hi> (if capable of that
+Title) theſe had been, <hi>under abſolute Princes:</hi> Or what <hi>King,</hi>
+deduction being made for the <hi>expenſe</hi> of his <hi>Court</hi> only;
+(without reckoning the concomitant <hi>vanities</hi> of <hi>Plaie, Re<g ref="char:EOLhyphen"/>vels</hi>
+&amp;c. in which our laſt Kings ſpent more then they have
+done, in bringing home <hi>Victory from Spaine or Turkey</hi>) would
+be able, with ſo <hi>ſmall revenues,</hi> to pay <hi>ſo many Garriſons,</hi> and
+<hi>maintain ſuch an Army</hi> as the <hi>Dutch</hi> have done for 80 years?
+Neither is the advantage leſſened by objecting the <hi>vaſt ſums
+they ſtand accountable for, to the Subjects of ſtranger Princes;</hi> which
+being <hi>intruſted without paune,</hi> is <hi>the greater honour; all mens repute</hi>
+in the world <hi>having been ſutable to their debts:</hi> Therefore ſince
+no <hi>Prince</hi> was ever thought capable of ſo much <hi>credit</hi> with
+his <hi>Neighbours,</hi> as to be <hi>intruſted</hi> with the like <hi>ineſtimable ſums;</hi>
+as <hi>theſe,</hi> and other <hi>Free States</hi> are known to be; (who are
+made <hi>depoſitaries for the Fatherleſſe and Widowes</hi>) it is an infal<g ref="char:EOLhyphen"/>lible
+argument of their <hi>leſſe eſteem of Kings;</hi> never found true
+to their <hi>natur all Subjects;</hi> which makes none willing to <hi>lend</hi>
+to them, but out of <hi>feare</hi> or <hi>conſtraint,</hi> when <hi>mony</hi> is by heaps
+<hi>layed</hi> voluntarily <hi>at the feet</hi> of this more <hi>free government.</hi> And
+what is to be expected fro<g ref="char:cmbAbbrStroke">̄</g> our redemption out of <hi>Monarchi<g ref="char:EOLhyphen"/>cal
+thraldom,</hi> may be gueſt by the <hi>words</hi> of the <hi>Kings</hi> own <hi>Agent;</hi>
+who urged as an inducement to <hi>Holland,</hi> to favour his par<g ref="char:EOLhyphen"/>ty,
+that <hi>if England could be free, they would be formidable unto them,
+not only by interrupting their Fiſhing, and all other Maritine advan<g ref="char:EOLhyphen"/>tages;
+but by robbing them of Trafick, as they had done the Veneci<g ref="char:EOLhyphen"/>ans:</hi>
+and not only ſo, but <hi>give Law to all Chriſtendome, by rea<g ref="char:EOLhyphen"/>ſon
+of the commodiouſneſſe of their harbours, and multitudes of their
+ſhips:</hi> Yet our bl—<hi>brethren</hi> of <hi>Scotland</hi> were ſo lique<g ref="char:EOLhyphen"/>riſh
+after the dainty <hi>ſhadow</hi> of being <hi>ſharers with us in England,</hi>
+               <pb n="36" facs="tcp:115311:22"/>
+by the mediation of a <hi>King,</hi> they meant to have ſet over us,
+that they let fall the <hi>ſubſtance</hi> of as great a felicity of their
+own; having <hi>Sea roome</hi> and greater advantages then the
+<hi>Hollander</hi> began with, or can yet purely call his own.</p>
+            <p>To that obvious <hi>objection,</hi> That <hi>reaſon did alwaies concede an
+advantage to the abſolute Juriſdiction of a ſingle perſon in the field;
+preſcribing to that end but one</hi> Generall <hi>to an</hi> Army, <hi>for feare of di<g ref="char:EOLhyphen"/>viſions
+upon contrary</hi> Counſels and Commands; May be <hi>replied,</hi>
+that no <hi>King</hi> had ever greater <hi>ſucceſſe</hi> waited on his <hi>perſon,</hi>
+then this <hi>Government</hi> hath been ordinarily preſented with
+from <hi>her Subjects;</hi> Who are not only <hi>heated</hi> with as great a
+<hi>ſenſe of Honour,</hi> but alſo <hi>moderated</hi> by that of <hi>Feare;</hi> being ſub<g ref="char:EOLhyphen"/>ject
+to <hi>queſtion,</hi> as well for <hi>Victory,</hi> if attained under too ha<g ref="char:EOLhyphen"/>zardous
+or improbable an adventure, as <hi>Loſſe;</hi> Whereas
+<hi>Princes</hi> take liberty to <hi>expoſe</hi> their <hi>people,</hi> without controle
+upon all occaſions and pretences, though never ſo triviall,
+diſadvantagious or unjuſt. Neither are <hi>Generalls taken up on
+truſt,</hi> as <hi>Kings</hi> are, in <hi>ſucceſſive Monarchies,</hi> who have nothing
+more to ſhew for their <hi>Legitimacy,</hi> then <hi>the word of their Mo<g ref="char:EOLhyphen"/>ther;</hi>
+nor better Reaſon and ſufficiency for the execution of
+their <hi>Regality,</hi> then that <hi>his Majeſties Father</hi> had rendred the
+people miſerable before him. And here I am conſtrained
+by <hi>truth</hi> to attect, That <hi>no Nation was ever more bleſt in the con<g ref="char:EOLhyphen"/>duct
+and ſucceſſe of a</hi> Generall, <hi>then</hi> England <hi>is now;</hi> whoſe <hi>va<g ref="char:EOLhyphen"/>lour</hi>
+and <hi>judgement</hi> hath not only broke through ſuch <hi>difficul<g ref="char:EOLhyphen"/>ties,</hi>
+for which <hi>Kings</hi> were wont to <hi>Triumph;</hi> but is become
+ſo <hi>familiar with Victory,</hi> as it may ſeem <hi>ſhee dares not leave</hi> Him,
+<hi>for feare of being overcome her ſelfe.</hi>
+            </p>
+            <p>Neither is <hi>the good uſe</hi> may be made <hi>of Kings,</hi> excluded in
+a <hi>Free State,</hi> but <hi>continued;</hi> as in the <hi>Duke of Venice,</hi> and here<g ref="char:EOLhyphen"/>tofore
+in the <hi>Prince of Orange</hi> &amp;c. Who have the cuſtody of
+ſuch <hi>Honours</hi> and <hi>Ceremonies,</hi> as are <hi>not,</hi> with decency or con<g ref="char:EOLhyphen"/>veniency,
+<hi>communicable to more then one:</hi> And <hi>ſuch a Prince</hi> is
+not likely (nor in my poor judgement fit) to be kept from
+a <hi>Common-Wealth:</hi> Provided his admittance be with that
+<hi>Caution,</hi> as no <hi>treſpas</hi> may be committed upon the <hi>Peoples Li<g ref="char:EOLhyphen"/>berty.</hi>
+            </p>
+            <p>
+               <pb n="37" facs="tcp:115311:22"/>
+               <hi>Free States</hi> have been alwaies looked upon as <hi>moſt au<g ref="char:EOLhyphen"/>ſpicious
+to men of parts;</hi> Whereas <hi>Monarchs</hi> preferre a <hi>good face;</hi>
+the importunate <hi>recommendations</hi> of a <hi>Miſtres;</hi> or their <hi>own</hi> ſo<g ref="char:EOLhyphen"/>litary
+<hi>affection;</hi> before all the <hi>deſert</hi> attending upon parts or
+breeding: becauſe <hi>empty</hi> themſelves, they feare to be <hi>ſoun<g ref="char:EOLhyphen"/>ded</hi>
+by thoſe more ſufficient; Being as unable to reſolve, as
+unconſtant in the proſecution of the better <hi>councells</hi> of o<g ref="char:EOLhyphen"/>thers;
+which wiſe men communicate to <hi>Kings</hi> with much
+<hi>caution,</hi> as knowing that what they adviſe is upon no lighter
+penalty then their <hi>ruine,</hi> if it be not as ſutable to the <hi>Favorites
+humours</hi> as their <hi>Maſters</hi> own <hi>ſafety;</hi> which makes them either
+conceal their <hi>true judgement,</hi> or comply with ſuch as preferre
+their <hi>ſingle intereſt</hi> before the <hi>Publick.</hi> This renders the beſt
+<hi>deſignes of Princes addle,</hi> expoſing their Subjects to a ſucceſſion
+of evill events in the midſt of their moſt probable advanta<g ref="char:EOLhyphen"/>ges:
+A puniſhment inflicted upon the generality of <hi>Kings,</hi>
+for their Murthers, Rapines and Blaſphemies; it being rare
+for any of them to hold their <hi>Principalities</hi> from a more <hi>legi<g ref="char:EOLhyphen"/>timate
+Tenure,</hi> then <hi>Poyſon</hi> or the <hi>Knife;</hi> their <hi>births</hi> being ſo
+<hi>ſophiſticated</hi> by the <hi>ſurer ſide,</hi> That they have oftentimes no
+more of the <hi>bloud Royall</hi> in them, then the <hi>conſent</hi> they lent to
+<hi>their Predeceſſors deſtruction</hi> hath clog'd their <hi>conſciences</hi> with<g ref="char:EOLhyphen"/>all.
+And if the <hi>poſſeſſion</hi> of the Crowne alone be eſteemed
+<hi>ſufficient,</hi> in the ſenſe of the Law, <hi>to expunge the groſſeſt ſpots</hi> yet
+found in any that wore it; may <hi>it</hi> not as well <hi>charifie a Re<g ref="char:EOLhyphen"/>publick</hi>
+from any imputation can be objected to the <hi>means</hi>
+they aſcended by? It being the cuſtome of all <hi>ſupreme powers;</hi>
+to <hi>ſhape their Reſult, to the patterne, Prudence and ſucceſſe hath cut
+out for them,</hi> and not according to the faſhion of old forma<g ref="char:EOLhyphen"/>lities;
+ſo little regarded by <hi>Princes</hi> as the <hi>oath</hi> was never yet
+ſworne but they have <hi>broken;</hi> nor <hi>Stipulation</hi> ſo ſtrong as to
+<hi>hold,</hi> when they ſaw the <hi>leaſt advantage</hi> before them: They
+have therefore the leſſe cauſe to complaine, being only
+<hi>whipt with their own Rod;</hi> or like <hi>Haman</hi> rather, who was the
+juſtlier executed, becauſe it was upon the <hi>ſame Gibbet,</hi> he
+had ſet up for <hi>the people of God.</hi>
+            </p>
+            <p>Therefore if men will not render themſelves deafe to the
+<pb n="38" facs="tcp:115311:23"/>
+               <hi>voyce of Providence,</hi> in no worldly thing ſo <hi>audible</hi> as a <hi>continu<g ref="char:EOLhyphen"/>ed
+ſucceſſe;</hi> They may conclude, what is done, is by the <hi>appro<g ref="char:EOLhyphen"/>bation
+of God</hi> himſelfe: He having manifeſted <hi>his power</hi> as
+well <hi>on the high and barren hills of Scotland,</hi> as in the fat and
+<hi>rich vallies of England</hi> and <hi>Ireland:</hi> Neither are his <hi>bleſſings</hi>
+wanting <hi>in the deepe,</hi> where our <hi>Navies</hi> are no leſſe <hi>ſucceſſe<g ref="char:EOLhyphen"/>full,</hi>
+then our <hi>Armies</hi> on the <hi>Land;</hi> Though looked on with
+an evill eye, and <hi>curſed</hi> by the <hi>Kings</hi> of the <hi>Nations:</hi> whom
+the ſame <hi>God</hi> hath ſo weakened or employed as they have
+had no power or leiſure to doe us hurt.</p>
+            <p>So as he that after all this, ſhall ſeem to apprehend more
+<hi>Divinity</hi> loſt in a <hi>King ſucceeding</hi> by <hi>Conqueſt</hi> &amp;c. Then may
+be found in a <hi>State</hi> (uſing <hi>as decent a proceedure,</hi> as can be ex<g ref="char:EOLhyphen"/>pected
+in ſuch a <hi>conjuncture,</hi> and from ſo many implacable
+humours and oppoſitions,) cannot but be blinded by <hi>Paſ<g ref="char:EOLhyphen"/>ſion,</hi>
+or ſome <hi>ſelfeiſh intereſt:</hi> For though <hi>Government</hi> may be
+<hi>by Divine Inſtitute;</hi> yet <hi>This</hi> or <hi>That</hi> is as <hi>indifferent,</hi> as whe<g ref="char:EOLhyphen"/>ther
+your <hi>cloathes</hi> be made after <hi>the Dutch</hi> or the <hi>French faſhi<g ref="char:EOLhyphen"/>on;</hi>
+It being ſufficient, if <hi>They</hi> defend us from the injuries
+of the <hi>Weather,</hi> and <hi>This</hi> protect us againſt our <hi>enemies;</hi> and
+prevent <hi>Sin</hi> and <hi>Diſorder,</hi> the true <hi>occaſions of all Government.</hi>
+            </p>
+            <p>I doe not find <hi>particular Intereſts,</hi> that are <hi>uſefull</hi> and <hi>ſafe,</hi>
+much <hi>worſted</hi> by this <hi>change:</hi> For if our <hi>ancient Nobility</hi> con<g ref="char:EOLhyphen"/>ſider
+how baſely they were trampled upon by thoſe two
+<hi>beggerly Princes</hi> Rupert and Maurice; who had nothing to
+beare the <hi>charges</hi> of their <hi>Pride,</hi> but the <hi>charity</hi> of thoſe they
+ſcorned, and the gracious aſpect of a <hi>
+                  <g ref="char:V">Ʋ</g>nkle,</hi> who could not
+<hi>love</hi> them, but for <hi>his own ends;</hi> What precedency or <hi>Honour</hi>
+could they have expected, had the <hi>Royall Iſſue</hi> been dilated
+to the probable number in <hi>three Deſcents</hi> it might have attai<g ref="char:EOLhyphen"/>ned
+to, whereas now there is no likelyhood, any <hi>more</hi> will
+be made; it <hi>not</hi> being <hi>ſutable to Republiques to give honours of
+that Magnitude;</hi> Though thoſe few, the cruelty of the <hi>Ca<g ref="char:EOLhyphen"/>tholick
+King</hi> left in the <hi>Netherlands,</hi> ſtill retain the <hi>ſame Digni<g ref="char:EOLhyphen"/>ties</hi>
+and <hi>Poſſeſſions,</hi> the <hi>State</hi> found them in; As I doubt not
+but <hi>th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe</hi> may doe here, if the implacableneſſe of their Spi<g ref="char:EOLhyphen"/>rits
+doe not render them unworthy of that favour; in think<g ref="char:EOLhyphen"/>ing
+<pb n="39" facs="tcp:115311:23"/>
+it <hi>not felicity enough, To be free from oppreſſion themſelves; un<g ref="char:EOLhyphen"/>leſſe</hi>
+they be in ſuch a condition, as <hi>they may exerciſe with im<g ref="char:EOLhyphen"/>punity
+a Tyrannicall power upon others;</hi> as formerly they did;
+when <hi>like burning glaſſes, they multiplied the heat of the</hi> Kings <hi>Op<g ref="char:EOLhyphen"/>preſſions.</hi>
+            </p>
+            <p>It is a wonder to me, to ſee, how <hi>nice</hi> they are now <hi>of their
+Honours;</hi> And what a <hi>ſcruple</hi> they make <hi>of ſubmitting to this
+power,</hi> not to be denied <hi>Superlative;</hi> when I remember how
+baſely I have ſeen <hi>them,</hi> or <hi>their Fathers,</hi> lying at the feet of
+the <hi>Court Minnion;</hi> ſcrambling for <hi>his durty Neeces;</hi> not leaving
+<hi>Innes, Shopps,</hi> and (if not belied) <hi>worſe places,</hi> unſought, to
+find ſome of <hi>his femall Kindred,</hi> for <hi>their Heites:</hi> Forgetting
+that <hi>he is more Noble, who hath ventured his Life for</hi> Liberty; <hi>then
+he that hath nothing to ſhew for his</hi> Honour, <hi>but a</hi> good face, <hi>or</hi> an
+Acquittance <hi>for ſo much money.</hi>
+            </p>
+            <p>Look upon our <hi>General</hi> in his <hi>Cradle,</hi> and you ſhall find
+him <hi>as good a Gentleman;</hi> as moſt of theſe (one of that <hi>Houſe</hi>
+and <hi>Name</hi> having been a principall <hi>Inſtrument</hi> in overturning
+thoſe <hi>Hives of Drones,</hi> and freeing us from the tyranny of
+the <hi>Pope:</hi>) But conſider him in his <hi>Saddle,</hi> and you will
+think ſuch low ſpirits unworthy to be his <hi>footmen:</hi> If he hath
+any faults, they lye neither in his <hi>Valour, Conduct, Prudence,</hi>
+nor <hi>Humanity:</hi> Being as <hi>far</hi> from <hi>Pride</hi> as <hi>Baſenes;</hi> and known
+to be as <hi>faithfull</hi> in the <hi>Preſervation</hi> of his <hi>friends,</hi> as Provi<g ref="char:EOLhyphen"/>dence
+hath made him <hi>ſucceſſefull</hi> in the <hi>ſubverſion</hi> of his <hi>ene<g ref="char:EOLhyphen"/>mies.</hi>
+I had not writ this, for feare of being accuſed of <hi>Flat<g ref="char:EOLhyphen"/>tery;</hi>
+but that I know he is ſo employed in purchaſing new
+<hi>Honours,</hi> and <hi>ſetling this Nation,</hi> that he hath not the leaſure
+to heare what he hath already deſerved.</p>
+            <p>Concerning the <hi>Intereſt of the Miniſtry;</hi> I mean ſuch as
+have no other <hi>end,</hi> then <hi>the glory of God;</hi> They may be more
+happy under <hi>this,</hi> then <hi>Monarchicall Government:</hi> For
+though <hi>ſublimer Titles (the Diana of more licentious times)</hi> be ta<g ref="char:EOLhyphen"/>ken
+away; yet ſince the <hi>Kingdome of Jeſus Chriſt</hi> is promiſed
+to be <hi>ſet up</hi> in the place; They ought with patience to ex<g ref="char:EOLhyphen"/>pect;
+Aſſuring themſelves, That <hi>God would never give ſo mira<g ref="char:EOLhyphen"/>culous
+ſucceſſe to men deſign'd for the ruine of Truth.</hi> Neither is it
+<pb n="40" facs="tcp:115311:24"/>
+ſutable with the <hi>reſt</hi> of the <hi>Prudence</hi> uſed by thoſe who have
+the abſolute power of determining, to <hi>take away</hi> the decent
+<hi>maintenance of the Miniſters of the Goſpell,</hi> or to <hi>demoliſh the <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſities:</hi>
+But rather hold the hands of ſuch as, like <hi>blind
+Samſon</hi> might goe about to pull <hi>them</hi> down and ruine their
+own ſelves by their <hi>folly</hi> and <hi>indiſcretion.</hi>
+            </p>
+            <p>It is paſt humane prevention, That <hi>two factions,</hi> both ſo
+<hi>fruitfull in Learning</hi> as the <hi>Protestant</hi> and <hi>Papiſt,</hi> ſhould not fall
+into ſo <hi>many ſubdiviſions;</hi> as it is impoſſible to keep them all
+in <hi>Vnity,</hi> Under a leſſe ſevere reſtraint, then an <hi>Inquiſition</hi>
+(as repugnant to charity, as unſutable to the ſpirits of a
+free people); Or els by enjoying ſo indulgent a <hi>Liberty,</hi> as
+may leave every <hi>Conſcience free</hi> (All civil Obedience preſup<g ref="char:EOLhyphen"/>poſed
+as due to the <hi>preſent Government</hi>). Now ſuch as con<g ref="char:EOLhyphen"/>clude
+from this <hi>Permiſſion,</hi> That the <hi>Catholicks</hi> will then in a
+ſhort time <hi>Maſter all;</hi> Doe not conſider, how <hi>much eaſier Oxen
+are kept out of a Paſture, then Conies or Hares:</hi> The <hi>Papiſt</hi> having
+rendred himſelfe ſo <hi>unſociable to all opinions but his own,</hi> as he is
+deteſted in <hi>Amſterdam,</hi> where the <hi>Jewes</hi> find as good, if not
+better protection.</p>
+            <p>Therefore <hi>the Vnited Provinces</hi> and all other <hi>Free States,</hi>
+whoſe <hi>Foundations</hi> were layed under <hi>the mixt occaſion</hi> of
+maintaining <hi>Religion</hi> and <hi>Liberty</hi> together; are not reprova<g ref="char:EOLhyphen"/>ble
+for making uſe of, and indulging <hi>tender Conſciences,</hi>
+though they retaine ſome things <hi>ſuperfluous,</hi> or have not yet
+the ſtrength to concoct into practice, all things <hi>neceſſary:</hi>
+For as <hi>Rome was not built in a day;</hi> ſo it is as <hi>impoſſible to pull it
+down in ſo ſhort a time.</hi>
+            </p>
+            <p>Wherefore I deſire men to be more <hi>charitable</hi> in their <hi>cen<g ref="char:EOLhyphen"/>ſures;</hi>
+ſince the <hi>Primitive Chriſtians</hi> were ſo farre <hi>Independent,</hi>
+That they retained only ſo much of the <hi>Truth,</hi> as the <hi>tyranny
+of thoſe times,</hi> and the <hi>ſtronger</hi> or <hi>weaker light</hi> they walked by,
+gave them opportunity <hi>to ſnatch up.</hi> Some running away
+with <hi>a beleefe of the Holy Ghost;</hi> others <hi>without</hi> ſo much as <hi>ever
+hearing of ſuch a thing:</hi> ſome with <hi>ſimple Baptiſme;</hi> others with
+a <hi>mixture of Circumciſion:</hi> Some with the <hi>bare knowledge of the
+Baptiſme of John,</hi> yet judged <hi>mighty in the Scriptures:</hi> Some with
+<pb n="41" facs="tcp:115311:24"/>
+               <hi>a religious reſpect to Daies and Meats;</hi> others <hi>without it.</hi> And yet
+<hi>Paul</hi> is ſo farre from reproving them, that he atteſts, it was
+<hi>all done to the Lord.</hi> Neither is it leſſe manifeſt, that they <hi>all
+did teach:</hi> And if the ſame <hi>Apoſtle</hi> would never <hi>eate Fleſh</hi> ra<g ref="char:EOLhyphen"/>ther
+then <hi>offend a weake brother,</hi> what charity appears in thoſe
+<hi>High Presbyterians,</hi> that clamour for a <hi>Coercive power,</hi> as <hi>Saul</hi>
+did before his converſion, that they might deliver <hi>theſe men
+bound.</hi> I would faine have them tell me, What is meant by
+<hi>building with Hay, Straw, Stubble</hi>  which ſhall raiſe at leaſt
+the <hi>Builders</hi> to heaven; provided <hi>Chriſt the Foundation</hi> be kept:
+And if ſo, let us take heed, leaſt a <hi>woe</hi> doe not <hi>follow</hi> the
+<hi>ſcandalizing theſe men,</hi> who without doubt are <hi>our Saviours lit<g ref="char:EOLhyphen"/>tle
+ones.</hi> And ſince we cannot recover the whole <hi>ſeamles coat
+of Chriſts righteouſneſſe,</hi> let us not deſpiſe any, about whom
+we find <hi>the undeniable peeces,</hi> though ſpotted with the frail<g ref="char:EOLhyphen"/>ties
+of humanity.</p>
+            <p>The laſt <hi>Intereſt</hi> is the <hi>Peoples;</hi> which if not already better
+under this <hi>preſent Government,</hi> then a <hi>Kings,</hi> they may <hi>thanke
+themſelves,</hi> who by <hi>their own intemperance</hi> and <hi>non-compliance,</hi>
+occaſion the major part of theſe heavy <hi>taxes;</hi> Which the
+<hi>State</hi> can take no pleaſure in raiſing, <hi>Their own lands</hi> being as
+<hi>obnoxious</hi> to them, as the <hi>meaneſt Subjects.</hi>
+            </p>
+            <p>Therefore if <hi>all</hi> would willingly <hi>ſubmit to the power, God
+hath ſet over them,</hi> The <hi>Tradeſman</hi> might live <hi>free</hi> from being
+interrupted by <hi>Monopolies;</hi> and the <hi>Husbandman,</hi> from the ra<g ref="char:EOLhyphen"/>pine
+of <hi>Purvoyers, Comiſſaries, Deere, Carriages, Shipmony, Ward<g ref="char:EOLhyphen"/>ſhips,</hi>
+and an innumerable number of other <hi>illegall impoſitions.</hi>
+            </p>
+            <p>
+               <hi>Whereas otherwiſe</hi> it is impoſſible to make a Nation happy,
+that is reſolved to be miſerable; and to ſeeke
+their own ruine by hating to
+be Reformed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
